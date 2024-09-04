@@ -1,0 +1,1267 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 54;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		008C7317A7C545B987A19C98 /* avatar_21.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E6CE833CDDC4253A68F9FB5 /* avatar_21.png */; };
+		00B97E09516247599BEBFC6A /* avatar_16.png in Resources */ = {isa = PBXBuildFile; fileRef = 38E9EC28A4124C6D97A16823 /* avatar_16.png */; };
+		00E356F31AD99517003FC87E /* solarcardTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* solarcardTests.m */; };
+		03BB50C8B09949D88B4DA190 /* solarlogo.png in Resources */ = {isa = PBXBuildFile; fileRef = C0CA058E77AE4255A7B2BB59 /* solarlogo.png */; };
+		03E6A7B5F70D4B728FD17301 /* switch_off.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AC83D4BCBB44400A159A892 /* switch_off.png */; };
+		044C42E82A78D33D00B38FFA /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 044C42E72A78D33C00B38FFA /* GoogleService-Info.plist */; };
+		0492135F478645F39B263E28 /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = D9F190EC89114005B77638F3 /* back.png */; };
+		083026322A1F435E893116EB /* icon_transaction_5.png in Resources */ = {isa = PBXBuildFile; fileRef = 84819F9CB71947599E83FF35 /* icon_transaction_5.png */; };
+		0ACB8155E2914F559A999975 /* avatar_23.png in Resources */ = {isa = PBXBuildFile; fileRef = 42BC7B26AA8E4268A40D2A73 /* avatar_23.png */; };
+		0E2DC7DD7F474CFBB78062DD /* avatar_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EEA67F91321483BA7D55167 /* avatar_2.png */; };
+		115B75647606496695041805 /* visacard.png in Resources */ = {isa = PBXBuildFile; fileRef = 61AA542AACC6490888BAD856 /* visacard.png */; };
+		131C5DC56B0C4EA285C7CC3C /* flag_italy.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F50F5A6029048D38FE14330 /* flag_italy.png */; };
+		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
+		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		14574F140B4F432DB9A306C1 /* icon_back.png in Resources */ = {isa = PBXBuildFile; fileRef = D3E6CB4636A247A89BDD5589 /* icon_back.png */; };
+		17EB5CE28F23495C896E7BA2 /* avatar_28.png in Resources */ = {isa = PBXBuildFile; fileRef = D4811B8EDF8B4E1FB7997D61 /* avatar_28.png */; };
+		1812C8A481094C78B08EAA7D /* flag_bulgaria.png in Resources */ = {isa = PBXBuildFile; fileRef = F77C31C3829C4EDBA6D18998 /* flag_bulgaria.png */; };
+		1B59602CDF294A488A62CB44 /* close_circle.png in Resources */ = {isa = PBXBuildFile; fileRef = DEE2C0E72BA741F38B83489D /* close_circle.png */; };
+		1FAB6DB671924230BF3D9701 /* reading_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8275A59B43184EA59F9C2C4A /* reading_icon.png */; };
+		1FB94F40A7CB405CB1795CE7 /* icon_transaction_no.png in Resources */ = {isa = PBXBuildFile; fileRef = 49F8397B70A64601946F5BCA /* icon_transaction_no.png */; };
+		238F10EBA94B4DD7BD05E273 /* avatar_20.png in Resources */ = {isa = PBXBuildFile; fileRef = DBB02C738E004B7AA46CB2DE /* avatar_20.png */; };
+		2441F5C8061445728BBDE750 /* flag_denmark.png in Resources */ = {isa = PBXBuildFile; fileRef = 966B077BE76B49AF8459F71E /* flag_denmark.png */; };
+		245A35CAD6A9483BBFCC0619 /* avatar_8.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A2BF13792554EA697D04020 /* avatar_8.png */; };
+		264461A37CC64885946C1571 /* flag_belgium.png in Resources */ = {isa = PBXBuildFile; fileRef = EF656DA8FA1448648AB18BA7 /* flag_belgium.png */; };
+		27F1EB1F3291472398B7DE77 /* flag_croatia.png in Resources */ = {isa = PBXBuildFile; fileRef = BECF4763C10A4CECA5C4D394 /* flag_croatia.png */; };
+		295726C572D3401182779520 /* avatar_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 34E78F797A994012B90766F3 /* avatar_3.png */; };
+		2C7469B0B3934FC28C1F9662 /* icon_qr.png in Resources */ = {isa = PBXBuildFile; fileRef = 1766C0307EA7494599031930 /* icon_qr.png */; };
+		2D356B7AC443406FAF364A43 /* icon_security.png in Resources */ = {isa = PBXBuildFile; fileRef = 16F69D35BF8646BF961F2E5C /* icon_security.png */; };
+		2DC9A1E1C17346AAAC1B968B /* arb.png in Resources */ = {isa = PBXBuildFile; fileRef = E268A5F5D153461AB893D47B /* arb.png */; };
+		2E6A460CFBD14587821E1845 /* icon_upload_image.png in Resources */ = {isa = PBXBuildFile; fileRef = CE59CC9D86594E1788899C69 /* icon_upload_image.png */; };
+		303ECBD1EC7D41D0A3A2769A /* flag_try.png in Resources */ = {isa = PBXBuildFile; fileRef = 8736CE1396FD450D96412C9B /* flag_try.png */; };
+		308010ADFEABF99554725601 /* Pods_solarcard_solarcardTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7E53DDD027896BB3CA0C071 /* Pods_solarcard_solarcardTests.framework */; };
+		31FEAD86E9024E298967D54D /* flag_britain.png in Resources */ = {isa = PBXBuildFile; fileRef = 4962BD7FFBFD446A8B1BBF9A /* flag_britain.png */; };
+		323D3231050F4B638924B19F /* avatar_30.png in Resources */ = {isa = PBXBuildFile; fileRef = AD2EC62E74B847EEB055CFB7 /* avatar_30.png */; };
+		325FB3A108EC4FB9960E031C /* Nunito.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5C4D42863998457B937D8BB5 /* Nunito.ttf */; };
+		33E59CDF939F490F8428F344 /* find_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E8F485A5138946A391B94F06 /* find_icon.png */; };
+		38F088DDD3094EA59684E640 /* SFProtext.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 57A3D3BFC7234695B9831C74 /* SFProtext.ttf */; };
+		396A28254D154CA0B29385E2 /* icon_transaction_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 930B51916324480D9EAC8623 /* icon_transaction_3.png */; };
+		39F3D808E5044347BB23CDDA /* flag_krw.png in Resources */ = {isa = PBXBuildFile; fileRef = 82F9C66591534228A2E8B9BF /* flag_krw.png */; };
+		3AE206E6B74E4AF6ADC77FC1 /* icon_upload_address.png in Resources */ = {isa = PBXBuildFile; fileRef = 96BD5889576543B2AFF53223 /* icon_upload_address.png */; };
+		3C13B922C25E42A1BCA0D50B /* icon_face_id.png in Resources */ = {isa = PBXBuildFile; fileRef = 040F96EF06204F778B758EF7 /* icon_face_id.png */; };
+		3E7A68D245D0456FBF28830F /* avatar_14.png in Resources */ = {isa = PBXBuildFile; fileRef = 35A5220A9FDB4266B2531FC5 /* avatar_14.png */; };
+		3E8B3D22C32A4A20B5B202DD /* icon_transaction_4.png in Resources */ = {isa = PBXBuildFile; fileRef = E0DAF1F6ACA44558AC35D29C /* icon_transaction_4.png */; };
+		3FF8351B5942467CBE2B69D1 /* icon_select_arrow_down.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F351CB6144F4EA3AA531582 /* icon_select_arrow_down.png */; };
+		43CAB3ADB9554023ACABBE39 /* icon_refresh.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BB637B19E644EA9807CDBED /* icon_refresh.png */; };
+		4E3AA5DADA2842BCB305E735 /* email.png in Resources */ = {isa = PBXBuildFile; fileRef = 47F77455171A425485B0B706 /* email.png */; };
+		571EB7AABAE247E78EAEF151 /* icon_send.png in Resources */ = {isa = PBXBuildFile; fileRef = 12C34318554C4C3BA5BDE9E5 /* icon_send.png */; };
+		581EE2828AE54CA988DD67FD /* icon_input_camera_black.png in Resources */ = {isa = PBXBuildFile; fileRef = 825C76DF63524C109204BAFB /* icon_input_camera_black.png */; };
+		58B47F678B264071B25786F2 /* icon_list_check.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F829617C92F43F38AAAAACF /* icon_list_check.png */; };
+		59914B17722F4A8891BD43AD /* sol.png in Resources */ = {isa = PBXBuildFile; fileRef = EF2CA7520A4444D78ABB8261 /* sol.png */; };
+		5A42528BFA5B7AFFE5117DA8 /* Pods_solarcard.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B637C06C77CF2F03F0971ED /* Pods_solarcard.framework */; };
+		5A5D1D2F3B8B4F61B412357F /* card_plastic.png in Resources */ = {isa = PBXBuildFile; fileRef = F01A48AA9C764899A6E4CAFF /* card_plastic.png */; };
+		5EAFEFB0C99A4D92BD1C62A6 /* avatar_4.png in Resources */ = {isa = PBXBuildFile; fileRef = 633B4DFD4DB6433EA5E48F54 /* avatar_4.png */; };
+		5F10B39D191A40F3BA819A70 /* icon_language.png in Resources */ = {isa = PBXBuildFile; fileRef = FC3E0127CC0B4FBB92D50EC0 /* icon_language.png */; };
+		5F66D274A6474FA0886FBCF5 /* avatar_29.png in Resources */ = {isa = PBXBuildFile; fileRef = C77F1AD8F56841B99659E975 /* avatar_29.png */; };
+		62979F17CD19450BA62647E4 /* cards.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BEEBDC3A7A843599AE4DB02 /* cards.png */; };
+		633462B29977414CA8455553 /* icon_change_passcode.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FD9E11944B7479BB56CB50C /* icon_change_passcode.png */; };
+		6420E84EC2124A8992FAFB5A /* btc.png in Resources */ = {isa = PBXBuildFile; fileRef = EF58B0BD6E3D46A2A2E62998 /* btc.png */; };
+		65F59BF9701F4A4A9210269E /* verified.png in Resources */ = {isa = PBXBuildFile; fileRef = 91E39AF2CFC44230A9F96633 /* verified.png */; };
+		66EEC1A647CB47D689A1CCA5 /* lock.png in Resources */ = {isa = PBXBuildFile; fileRef = 74F10A11E1E7421DA2793EE5 /* lock.png */; };
+		676548DEA3B04EE0907882EC /* switch_on.png in Resources */ = {isa = PBXBuildFile; fileRef = 01E6FA4CE3BB478889BA8FEC /* switch_on.png */; };
+		6845D8ED23154F02B3EC6CA8 /* topup_from_crypto.png in Resources */ = {isa = PBXBuildFile; fileRef = A84EBFAE50C3437DB5468375 /* topup_from_crypto.png */; };
+		6A364B9F0CF340A3AEBFBE79 /* avatar_25.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F2E2EC6111D47B7A0E4E51F /* avatar_25.png */; };
+		6CE8B7BCA2224A3B9CED8216 /* flag_usd.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F6998A0639048C9BA0EC167 /* flag_usd.png */; };
+		6D538317D4E746BFA6FF73DE /* avatar_11.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C92D6C7727C413D8A824FD4 /* avatar_11.png */; };
+		6D6DD9CBBB874957BAA45025 /* bookmark_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C5CFEB6AA244981B5AC9A87 /* bookmark_icon.png */; };
+		6FCCB306D3E14F9499C9740F /* avatar_27.png in Resources */ = {isa = PBXBuildFile; fileRef = AB4BEEC1EAB8447ABBAA770E /* avatar_27.png */; };
+		729B4ED14A984039A0F12A45 /* avatar_10.png in Resources */ = {isa = PBXBuildFile; fileRef = E6A60D6A0AA942D28372DE69 /* avatar_10.png */; };
+		736239E0F5E947C1822DB6DD /* avatar_19.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C8D1F3765D84738A18B1269 /* avatar_19.png */; };
+		7413A697AD134FADAB581A9C /* avatar_26.png in Resources */ = {isa = PBXBuildFile; fileRef = 1D5A29288E1F4AD69E21AEAA /* avatar_26.png */; };
+		7856B2732DA5466FB7357726 /* matic.png in Resources */ = {isa = PBXBuildFile; fileRef = BFB945BAD7E641CABD075CB0 /* matic.png */; };
+		7A6AAA73B6564708AE9308E2 /* avatar_13.png in Resources */ = {isa = PBXBuildFile; fileRef = F21F8CC2EFF74AA6B8C395B6 /* avatar_13.png */; };
+		7BF77882C0004EBA96ECB4CD /* icon_app_setting.png in Resources */ = {isa = PBXBuildFile; fileRef = F68B933C671F4DE3A3A1340B /* icon_app_setting.png */; };
+		7C515350B6504AF7B509ACB8 /* topup_from_bank.png in Resources */ = {isa = PBXBuildFile; fileRef = CF0106AE4F7E43189FFFD4B6 /* topup_from_bank.png */; };
+		7CEC08AA6E5148F090550027 /* flag_czech.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B2DAEDEA7D94259BF81FFB8 /* flag_czech.png */; };
+		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		82D8BCB04AC74CC6B6CB983E /* avatar_22.png in Resources */ = {isa = PBXBuildFile; fileRef = B2AE1DB70B624EB18CDB8151 /* avatar_22.png */; };
+		834B8A3882464FE39D446E77 /* icon_report_tx.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E6981F413F04A6DBBC83103 /* icon_report_tx.png */; };
+		8724950078524882B8DDECD9 /* app_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 963C2B8134114515979281C0 /* app_icon.png */; };
+		881B9FD956BA4EFFA6887F84 /* flag_bosnis.png in Resources */ = {isa = PBXBuildFile; fileRef = BF044F7D802E4AE9B3F8B82E /* flag_bosnis.png */; };
+		8937C2CDE6444A93AA892460 /* icon_card_setting_currency.png in Resources */ = {isa = PBXBuildFile; fileRef = 0AB293C2DD1743B88AE22D3A /* icon_card_setting_currency.png */; };
+		8A52F04D3DE94F39B6C9D277 /* icon_arrow_right.png in Resources */ = {isa = PBXBuildFile; fileRef = B09C36C1867B48E38464CF47 /* icon_arrow_right.png */; };
+		8DEFFE8CA72642529921A981 /* icon_plus.png in Resources */ = {isa = PBXBuildFile; fileRef = 262401A054FB41CA8EF2B737 /* icon_plus.png */; };
+		8F383039745942B5817C4067 /* bg_blur.png in Resources */ = {isa = PBXBuildFile; fileRef = 32A720536BD341AA804C8E64 /* bg_blur.png */; };
+		904FA1BBB5484CE0948A7F22 /* createpassword.png in Resources */ = {isa = PBXBuildFile; fileRef = 68AD2BB7D9364B8192B1780C /* createpassword.png */; };
+		91AD9206790D4F3A8EAD2A88 /* card_blocked.png in Resources */ = {isa = PBXBuildFile; fileRef = 6255D2DEE2DB4959A3CDCF6D /* card_blocked.png */; };
+		935036520CC74103BA296EC6 /* icon_card_setting.png in Resources */ = {isa = PBXBuildFile; fileRef = 6018D934DCB7463298E60E0A /* icon_card_setting.png */; };
+		95938DF13621440FB9B8DDC8 /* avatar_17.png in Resources */ = {isa = PBXBuildFile; fileRef = 89ADC775741648E7B2FC6C3D /* avatar_17.png */; };
+		95ED2E2191CD4896889118F6 /* wallet.png in Resources */ = {isa = PBXBuildFile; fileRef = 071EFDF37C6A41F8A4EC843C /* wallet.png */; };
+		96746B6425894C03A1816BB8 /* icon_terms_conditions.png in Resources */ = {isa = PBXBuildFile; fileRef = B1ACBC8CBB36459484287F52 /* icon_terms_conditions.png */; };
+		9871A1B7E903482CA6F8AB46 /* icon_recepit.png in Resources */ = {isa = PBXBuildFile; fileRef = D84004F2308D4AB8BBFD1CB0 /* icon_recepit.png */; };
+		9F58F1FECEDC4570BBF26123 /* avatar_6.png in Resources */ = {isa = PBXBuildFile; fileRef = DCFF85800BD44F5BA0E4AFC2 /* avatar_6.png */; };
+		A04BF44347E047F1A5A603C8 /* avatar_15.png in Resources */ = {isa = PBXBuildFile; fileRef = C43BA40046FD491CAB8C6663 /* avatar_15.png */; };
+		A2D01CC4356B4508B4F0DF84 /* avatar_1.png in Resources */ = {isa = PBXBuildFile; fileRef = C4C7052EEC1F40AC98BA0180 /* avatar_1.png */; };
+		A3C0F4E4FDC84713B95D7005 /* icon_input_hide.png in Resources */ = {isa = PBXBuildFile; fileRef = 1AE25768F5424933A75E279C /* icon_input_hide.png */; };
+		A40EA021388A410EB2ED8274 /* eth.png in Resources */ = {isa = PBXBuildFile; fileRef = C8CF155F10B64950968C50B5 /* eth.png */; };
+		A442A042FB154D42A05FB45F /* avatar_5.png in Resources */ = {isa = PBXBuildFile; fileRef = B50F94FF065349EABD32B130 /* avatar_5.png */; };
+		A4568500FCD84D378D789FE9 /* icon_card_setting_block.png in Resources */ = {isa = PBXBuildFile; fileRef = 14DD23147B2644CFBEED9888 /* icon_card_setting_block.png */; };
+		ADBC321C3DC94611860FF0BF /* security_system_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = B0FE02DDAE494E97992AFFE7 /* security_system_bg.png */; };
+		AF517659F8D149CB85FB266E /* avatar_12.png in Resources */ = {isa = PBXBuildFile; fileRef = 20941A4743444BDB830E5214 /* avatar_12.png */; };
+		AF9DECE4C62043748825E02D /* icon_card.png in Resources */ = {isa = PBXBuildFile; fileRef = 163BE54AB2824E199BA6A87A /* icon_card.png */; };
+		B22782F76F2045C2A15FBF69 /* icon_input_error.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A4B7E212E164DE393857176 /* icon_input_error.png */; };
+		B4CADB89DE2D4F07A5AEBC8A /* solarcard.png in Resources */ = {isa = PBXBuildFile; fileRef = F52CE249DD584BB6AAA85A1C /* solarcard.png */; };
+		B4F48B19736A4CDD87C7849A /* icon_topup.png in Resources */ = {isa = PBXBuildFile; fileRef = E73B8F574E42401AA1B0041A /* icon_topup.png */; };
+		B647F180722B42A894C35B99 /* opt.png in Resources */ = {isa = PBXBuildFile; fileRef = F2D39838F9854328A0FA5AE2 /* opt.png */; };
+		B65600EE006642139D059C8C /* avl.png in Resources */ = {isa = PBXBuildFile; fileRef = 1298F874F499490894A3A72E /* avl.png */; };
+		BB6A66D836F14E06B6D031B2 /* icon_input_show.png in Resources */ = {isa = PBXBuildFile; fileRef = 11AF8FD2E4AD4757A4361A06 /* icon_input_show.png */; };
+		BCE5C40484E14B1B81C5E322 /* flag_greece.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C10169EBF1349EB8948A5F7 /* flag_greece.png */; };
+		BF6EE1C953154237B66B3AA5 /* icon_transaction_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 6271978D629A46A8A2C2BC2B /* icon_transaction_2.png */; };
+		C148B2FD05304A02844E7EEF /* flag_gbp.png in Resources */ = {isa = PBXBuildFile; fileRef = FB9D5DAA075E4974B51EABFA /* flag_gbp.png */; };
+		C3A34D37D1EA4A1EA07E6AEF /* card_platium.png in Resources */ = {isa = PBXBuildFile; fileRef = 82357627BABD45A1938A2B13 /* card_platium.png */; };
+		C464BED5EFA74F3BA9E574E3 /* arrowleft.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A84DB07481D48BC98F5B49D /* arrowleft.png */; };
+		C892F4787FA9455BAB579023 /* emailbox.png in Resources */ = {isa = PBXBuildFile; fileRef = 1FD29EBD130D4BF4BA84D435 /* emailbox.png */; };
+		CFEACEF8FF584B4A940B3A5F /* flag_eur.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E6639FB41A14DFBA9B0B77E /* flag_eur.png */; };
+		D095247409DB4ACEA12B3AEF /* avatar_24.png in Resources */ = {isa = PBXBuildFile; fileRef = 0AD542F64BC54C18AF347028 /* avatar_24.png */; };
+		D0A8786AECF343589B14D6C1 /* icon_calendar.png in Resources */ = {isa = PBXBuildFile; fileRef = F46C50CF321B49BF9EF31A4E /* icon_calendar.png */; };
+		D187B726557A4A11AFA63FB6 /* card_empty.png in Resources */ = {isa = PBXBuildFile; fileRef = B41AF07B9B9B4A53929102DC /* card_empty.png */; };
+		D4CE8AEA49B44E329691F4E5 /* bsc.png in Resources */ = {isa = PBXBuildFile; fileRef = 86B66ED0F5794405B6531D81 /* bsc.png */; };
+		D662111BBCAA4A49A835B0EB /* logowhite.png in Resources */ = {isa = PBXBuildFile; fileRef = 1710B693FE874AAEA5771473 /* logowhite.png */; };
+		D6CD9C805B7A479AACF7DDA7 /* avatar_9.png in Resources */ = {isa = PBXBuildFile; fileRef = 63825211E07C4318AD84FDA1 /* avatar_9.png */; };
+		DCF718A32D564A6E9A45B291 /* icon_input_camera.png in Resources */ = {isa = PBXBuildFile; fileRef = B25ED478426C4878B32A7A05 /* icon_input_camera.png */; };
+		DDFDF92D76414C5E9CF99D8A /* topup_from_iban1.png in Resources */ = {isa = PBXBuildFile; fileRef = FAD541CDB4004644BAB27E89 /* topup_from_iban1.png */; };
+		E11570E5271A40AEAAB4657C /* dark_back.png in Resources */ = {isa = PBXBuildFile; fileRef = B1D41DC466EF40F3ABE770C2 /* dark_back.png */; };
+		E42752C2BC98468789484E97 /* avatar_7.png in Resources */ = {isa = PBXBuildFile; fileRef = 2778041607DC4BFC8250563E /* avatar_7.png */; };
+		E902C5078F40411A807B065E /* card_virtual.png in Resources */ = {isa = PBXBuildFile; fileRef = FD92C378B804466BAA8B42A5 /* card_virtual.png */; };
+		EB4D138944A442A1BB7EDA38 /* icon_arrow_upright.png in Resources */ = {isa = PBXBuildFile; fileRef = AEA6EE5349F742E6B9BEFB00 /* icon_arrow_upright.png */; };
+		EB72E4A8555C4EDCA4606F14 /* solar.png in Resources */ = {isa = PBXBuildFile; fileRef = 3365FFBB13F840BBA9764CAF /* solar.png */; };
+		EF255B2BAED54D9FAC8AAA43 /* mastercard.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AA34DF6D6A842DD800FB70E /* mastercard.png */; };
+		F48A724F7B664C11BB8A6DD4 /* card_opened.png in Resources */ = {isa = PBXBuildFile; fileRef = 622F4B56E5E040358222F70B /* card_opened.png */; };
+		F6AE9737111F4189947F2B8B /* slide.svg in Resources */ = {isa = PBXBuildFile; fileRef = CA5CBA6CB6294B5D8EDEADB9 /* slide.svg */; };
+		F6F657E9FD684960855A6A00 /* flag_austria.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F85CBC8CC1F41A8B28AA425 /* flag_austria.png */; };
+		F81B30DC8E7046B5A752875B /* copy_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = F86CB7C01530443291FD9204 /* copy_icon.png */; };
+		F8E828CDE20446769F100D0E /* icon_input_clear.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A288DC4D466498B85E196CB /* icon_input_clear.png */; };
+		F91305FB82184562BC3E8A8D /* avatar_18.png in Resources */ = {isa = PBXBuildFile; fileRef = 98115BB8105A45C7852F9DA2 /* avatar_18.png */; };
+		FD271DEB0D004BDDA3CF7704 /* favorites_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = B18B48C156AE40898234C5D7 /* favorites_icon.png */; };
+		FD7A6B4DA5AF415B96029207 /* fnt.png in Resources */ = {isa = PBXBuildFile; fileRef = CA6C5B0C88D148B7ADBF7DD2 /* fnt.png */; };
+		FE5ACA54BD084C61B0174313 /* icon_card_setting_statement.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DAE7271A0D54732A0F4F2F8 /* icon_card_setting_statement.png */; };
+		FFC062F8015343F091CC7983 /* icon_transaction_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FBF5B7CF82642C183DE8CAD /* icon_transaction_1.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		00E356F41AD99517003FC87E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
+			remoteInfo = solarcard;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		00E356EE1AD99517003FC87E /* solarcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = solarcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* solarcardTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = solarcardTests.m; sourceTree = "<group>"; };
+		01E6FA4CE3BB478889BA8FEC /* switch_on.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = switch_on.png; path = ../src/assets/images/card/switch_on.png; sourceTree = "<group>"; };
+		040F96EF06204F778B758EF7 /* icon_face_id.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_face_id.png; path = ../src/assets/images/card/icon_face_id.png; sourceTree = "<group>"; };
+		044C42E72A78D33C00B38FFA /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "solarcard/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		071EFDF37C6A41F8A4EC843C /* wallet.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = wallet.png; path = ../src/assets/images/wallet.png; sourceTree = "<group>"; };
+		0A288DC4D466498B85E196CB /* icon_input_clear.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_input_clear.png; path = ../src/assets/images/card/icon_input_clear.png; sourceTree = "<group>"; };
+		0AB293C2DD1743B88AE22D3A /* icon_card_setting_currency.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_card_setting_currency.png; path = ../src/assets/images/card/icon_card_setting_currency.png; sourceTree = "<group>"; };
+		0AD542F64BC54C18AF347028 /* avatar_24.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_24.png; path = ../src/assets/images/card/avatar_24.png; sourceTree = "<group>"; };
+		0B2DAEDEA7D94259BF81FFB8 /* flag_czech.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = flag_czech.png; path = ../src/assets/images/card/flag_czech.png; sourceTree = "<group>"; };
+		0BB637B19E644EA9807CDBED /* icon_refresh.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_refresh.png; path = ../src/assets/images/card/icon_refresh.png; sourceTree = "<group>"; };
+		0C8CA5C7DC10492DB28800DC /* icon_check.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_check.png; path = ../src/assets/images/card/icon_check.png; sourceTree = "<group>"; };
+		0D6E78D46CD34DB29B821339 /* usd_icon.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = usd_icon.png; path = ../src/assets/images/usd_icon.png; sourceTree = "<group>"; };
+		0F829617C92F43F38AAAAACF /* icon_list_check.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_list_check.png; path = ../src/assets/images/card/icon_list_check.png; sourceTree = "<group>"; };
+		11AF8FD2E4AD4757A4361A06 /* icon_input_show.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_input_show.png; path = ../src/assets/images/card/icon_input_show.png; sourceTree = "<group>"; };
+		1298F874F499490894A3A72E /* avl.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avl.png; path = ../src/assets/images/coin_logos/avl.png; sourceTree = "<group>"; };
+		12C34318554C4C3BA5BDE9E5 /* icon_send.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_send.png; path = ../src/assets/images/card/icon_send.png; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* solarcard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = solarcard.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = solarcard/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = solarcard/AppDelegate.mm; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = solarcard/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = solarcard/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = solarcard/main.m; sourceTree = "<group>"; };
+		14DD23147B2644CFBEED9888 /* icon_card_setting_block.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_card_setting_block.png; path = ../src/assets/images/card/icon_card_setting_block.png; sourceTree = "<group>"; };
+		163BE54AB2824E199BA6A87A /* icon_card.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_card.png; path = ../src/assets/images/card/icon_card.png; sourceTree = "<group>"; };
+		16F69D35BF8646BF961F2E5C /* icon_security.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_security.png; path = ../src/assets/images/card/icon_security.png; sourceTree = "<group>"; };
+		1710B693FE874AAEA5771473 /* logowhite.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = logowhite.png; path = ../src/assets/images/logowhite.png; sourceTree = "<group>"; };
+		1766C0307EA7494599031930 /* icon_qr.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_qr.png; path = ../src/assets/images/card/icon_qr.png; sourceTree = "<group>"; };
+		1AE25768F5424933A75E279C /* icon_input_hide.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_input_hide.png; path = ../src/assets/images/card/icon_input_hide.png; sourceTree = "<group>"; };
+		1D5A29288E1F4AD69E21AEAA /* avatar_26.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_26.png; path = ../src/assets/images/card/avatar_26.png; sourceTree = "<group>"; };
+		1FD29EBD130D4BF4BA84D435 /* emailbox.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = emailbox.png; path = ../src/assets/images/emailbox.png; sourceTree = "<group>"; };
+		20941A4743444BDB830E5214 /* avatar_12.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_12.png; path = ../src/assets/images/card/avatar_12.png; sourceTree = "<group>"; };
+		262401A054FB41CA8EF2B737 /* icon_plus.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_plus.png; path = ../src/assets/images/card/icon_plus.png; sourceTree = "<group>"; };
+		2778041607DC4BFC8250563E /* avatar_7.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_7.png; path = ../src/assets/images/card/avatar_7.png; sourceTree = "<group>"; };
+		2C10169EBF1349EB8948A5F7 /* flag_greece.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = flag_greece.png; path = ../src/assets/images/card/flag_greece.png; sourceTree = "<group>"; };
+		2E6639FB41A14DFBA9B0B77E /* flag_eur.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = flag_eur.png; path = ../src/assets/images/card/flag_eur.png; sourceTree = "<group>"; };
+		32A720536BD341AA804C8E64 /* bg_blur.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = bg_blur.png; path = ../src/assets/images/card/bg_blur.png; sourceTree = "<group>"; };
+		3365FFBB13F840BBA9764CAF /* solar.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = solar.png; path = ../src/assets/images/solar.png; sourceTree = "<group>"; };
+		347758790BD14A5D82A91AB7 /* icon_bag.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_bag.png; path = ../src/assets/images/card/icon_bag.png; sourceTree = "<group>"; };
+		34E78F797A994012B90766F3 /* avatar_3.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_3.png; path = ../src/assets/images/card/avatar_3.png; sourceTree = "<group>"; };
+		35A5220A9FDB4266B2531FC5 /* avatar_14.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_14.png; path = ../src/assets/images/card/avatar_14.png; sourceTree = "<group>"; };
+		38E9EC28A4124C6D97A16823 /* avatar_16.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_16.png; path = ../src/assets/images/card/avatar_16.png; sourceTree = "<group>"; };
+		3B4392A12AC88292D35C810B /* Pods-solarcard.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-solarcard.debug.xcconfig"; path = "Target Support Files/Pods-solarcard/Pods-solarcard.debug.xcconfig"; sourceTree = "<group>"; };
+		3DAE7271A0D54732A0F4F2F8 /* icon_card_setting_statement.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_card_setting_statement.png; path = ../src/assets/images/card/icon_card_setting_statement.png; sourceTree = "<group>"; };
+		3F85CBC8CC1F41A8B28AA425 /* flag_austria.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = flag_austria.png; path = ../src/assets/images/card/flag_austria.png; sourceTree = "<group>"; };
+		42BC7B26AA8E4268A40D2A73 /* avatar_23.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_23.png; path = ../src/assets/images/card/avatar_23.png; sourceTree = "<group>"; };
+		473672C22150413DA0064C79 /* icon_support.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_support.png; path = ../src/assets/images/card/icon_support.png; sourceTree = "<group>"; };
+		47F77455171A425485B0B706 /* email.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = email.png; path = ../src/assets/images/email.png; sourceTree = "<group>"; };
+		4962BD7FFBFD446A8B1BBF9A /* flag_britain.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = flag_britain.png; path = ../src/assets/images/card/flag_britain.png; sourceTree = "<group>"; };
+		49F8397B70A64601946F5BCA /* icon_transaction_no.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_transaction_no.png; path = ../src/assets/images/card/icon_transaction_no.png; sourceTree = "<group>"; };
+		4B637C06C77CF2F03F0971ED /* Pods_solarcard.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_solarcard.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4E6981F413F04A6DBBC83103 /* icon_report_tx.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_report_tx.png; path = ../src/assets/images/card/icon_report_tx.png; sourceTree = "<group>"; };
+		5709B34CF0A7D63546082F79 /* Pods-solarcard.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-solarcard.release.xcconfig"; path = "Target Support Files/Pods-solarcard/Pods-solarcard.release.xcconfig"; sourceTree = "<group>"; };
+		57A3D3BFC7234695B9831C74 /* SFProtext.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SFProtext.ttf; path = ../src/assets/fonts/SFProtext.ttf; sourceTree = "<group>"; };
+		5A4B7E212E164DE393857176 /* icon_input_error.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_input_error.png; path = ../src/assets/images/card/icon_input_error.png; sourceTree = "<group>"; };
+		5B7EB9410499542E8C5724F5 /* Pods-solarcard-solarcardTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-solarcard-solarcardTests.debug.xcconfig"; path = "Target Support Files/Pods-solarcard-solarcardTests/Pods-solarcard-solarcardTests.debug.xcconfig"; sourceTree = "<group>"; };
+		5BEEBDC3A7A843599AE4DB02 /* cards.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = cards.png; path = ../src/assets/images/cards.png; sourceTree = "<group>"; };
+		5C4D42863998457B937D8BB5 /* Nunito.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Nunito.ttf; path = ../src/assets/fonts/Nunito.ttf; sourceTree = "<group>"; };
+		5C92D6C7727C413D8A824FD4 /* avatar_11.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_11.png; path = ../src/assets/images/card/avatar_11.png; sourceTree = "<group>"; };
+		6018D934DCB7463298E60E0A /* icon_card_setting.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_card_setting.png; path = ../src/assets/images/card/icon_card_setting.png; sourceTree = "<group>"; };
+		61AA542AACC6490888BAD856 /* visacard.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = visacard.png; path = ../src/assets/images/card/visacard.png; sourceTree = "<group>"; };
+		622F4B56E5E040358222F70B /* card_opened.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = card_opened.png; path = ../src/assets/images/card_opened.png; sourceTree = "<group>"; };
+		6255D2DEE2DB4959A3CDCF6D /* card_blocked.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = card_blocked.png; path = ../src/assets/images/card/card_blocked.png; sourceTree = "<group>"; };
+		6271978D629A46A8A2C2BC2B /* icon_transaction_2.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_transaction_2.png; path = ../src/assets/images/card/icon_transaction_2.png; sourceTree = "<group>"; };
+		633B4DFD4DB6433EA5E48F54 /* avatar_4.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_4.png; path = ../src/assets/images/card/avatar_4.png; sourceTree = "<group>"; };
+		63825211E07C4318AD84FDA1 /* avatar_9.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_9.png; path = ../src/assets/images/card/avatar_9.png; sourceTree = "<group>"; };
+		68AD2BB7D9364B8192B1780C /* createpassword.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = createpassword.png; path = ../src/assets/images/createpassword.png; sourceTree = "<group>"; };
+		6AA34DF6D6A842DD800FB70E /* mastercard.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = mastercard.png; path = ../src/assets/images/card/mastercard.png; sourceTree = "<group>"; };
+		6C5CFEB6AA244981B5AC9A87 /* bookmark_icon.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = bookmark_icon.png; path = ../src/assets/images/bookmark_icon.png; sourceTree = "<group>"; };
+		74F10A11E1E7421DA2793EE5 /* lock.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = lock.png; path = ../src/assets/images/lock.png; sourceTree = "<group>"; };
+		7AC83D4BCBB44400A159A892 /* switch_off.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = switch_off.png; path = ../src/assets/images/card/switch_off.png; sourceTree = "<group>"; };
+		7E6CE833CDDC4253A68F9FB5 /* avatar_21.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_21.png; path = ../src/assets/images/card/avatar_21.png; sourceTree = "<group>"; };
+		7FBF5B7CF82642C183DE8CAD /* icon_transaction_1.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_transaction_1.png; path = ../src/assets/images/card/icon_transaction_1.png; sourceTree = "<group>"; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = solarcard/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		82357627BABD45A1938A2B13 /* card_platium.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = card_platium.png; path = ../src/assets/images/card/card_platium.png; sourceTree = "<group>"; };
+		82F9C66591534228A2E8B9BF /* flag_krw.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = flag_krw.png; path = ../src/assets/images/card/flag_krw.png; sourceTree = "<group>"; };
+		84819F9CB71947599E83FF35 /* icon_transaction_5.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = icon_transaction_5.png; path = ../src/assets/images/card/icon_transaction_5.png; sourceTree = "<group>"; };
+		8736CE1396FD450D96412C9B /* flag_try.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = flag_try.png; path = ../src/assets/images/card/flag_try.png; sourceTree = "<group>"; };
+		89ADC775741648E7B2FC6C3D /* avatar_17.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_17.png; path = ../src/assets/images/card/avatar_17.png; sourceTree = "<group>"; };
+		89C6BE57DB24E9ADA2F236DE /* Pods-solarcard-solarcardTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-solarcard-solarcardTests.release.xcconfig"; path = "Target Support Files/Pods-solarcard-solarcardTests/Pods-solarcard-solarcardTests.release.xcconfig"; sourceTree = "<group>"; };
+		8A2BF13792554EA697D04020 /* avatar_8.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_8.png; path = ../src/assets/images/card/avatar_8.png; sourceTree = "<group>"; };
+		8A84DB07481D48BC98F5B49D /* arrowleft.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = arrowleft.png; path = ../src/assets/images/arrowleft.png; sourceTree = "<group>"; };
+		8C8D1F3765D84738A18B1269 /* avatar_19.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_19.png; path = ../src/assets/images/card/avatar_19.png; sourceTree = "<group>"; };
+		8F2E2EC6111D47B7A0E4E51F /* avatar_25.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_25.png; path = ../src/assets/images/card/avatar_25.png; sourceTree = "<group>"; };
+		8F351CB6144F4EA3AA531582 /* icon_select_arrow_down.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_select_arrow_down.png; path = ../src/assets/images/card/icon_select_arrow_down.png; sourceTree = "<group>"; };
+		8FD9E11944B7479BB56CB50C /* icon_change_passcode.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_change_passcode.png; path = ../src/assets/images/card/icon_change_passcode.png; sourceTree = "<group>"; };
+		91E39AF2CFC44230A9F96633 /* verified.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = verified.png; path = ../src/assets/images/verified.png; sourceTree = "<group>"; };
+		930B51916324480D9EAC8623 /* icon_transaction_3.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_transaction_3.png; path = ../src/assets/images/card/icon_transaction_3.png; sourceTree = "<group>"; };
+		963C2B8134114515979281C0 /* app_icon.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = app_icon.png; path = ../src/assets/images/app_icon.png; sourceTree = "<group>"; };
+		966B077BE76B49AF8459F71E /* flag_denmark.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = flag_denmark.png; path = ../src/assets/images/card/flag_denmark.png; sourceTree = "<group>"; };
+		96BD5889576543B2AFF53223 /* icon_upload_address.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_upload_address.png; path = ../src/assets/images/card/icon_upload_address.png; sourceTree = "<group>"; };
+		98115BB8105A45C7852F9DA2 /* avatar_18.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_18.png; path = ../src/assets/images/card/avatar_18.png; sourceTree = "<group>"; };
+		9EEA67F91321483BA7D55167 /* avatar_2.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_2.png; path = ../src/assets/images/card/avatar_2.png; sourceTree = "<group>"; };
+		9F50F5A6029048D38FE14330 /* flag_italy.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = flag_italy.png; path = ../src/assets/images/card/flag_italy.png; sourceTree = "<group>"; };
+		9F6998A0639048C9BA0EC167 /* flag_usd.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = flag_usd.png; path = ../src/assets/images/card/flag_usd.png; sourceTree = "<group>"; };
+		A84EBFAE50C3437DB5468375 /* topup_from_crypto.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = topup_from_crypto.png; path = ../src/assets/images/card/topup_from_crypto.png; sourceTree = "<group>"; };
+		AB4BEEC1EAB8447ABBAA770E /* avatar_27.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_27.png; path = ../src/assets/images/card/avatar_27.png; sourceTree = "<group>"; };
+		AD2EC62E74B847EEB055CFB7 /* avatar_30.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_30.png; path = ../src/assets/images/card/avatar_30.png; sourceTree = "<group>"; };
+		AEA6EE5349F742E6B9BEFB00 /* icon_arrow_upright.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_arrow_upright.png; path = ../src/assets/images/card/icon_arrow_upright.png; sourceTree = "<group>"; };
+		B09C36C1867B48E38464CF47 /* icon_arrow_right.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_arrow_right.png; path = ../src/assets/images/card/icon_arrow_right.png; sourceTree = "<group>"; };
+		B0FE02DDAE494E97992AFFE7 /* security_system_bg.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = security_system_bg.png; path = ../src/assets/images/card/security_system_bg.png; sourceTree = "<group>"; };
+		B18B48C156AE40898234C5D7 /* favorites_icon.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = favorites_icon.png; path = ../src/assets/images/favorites_icon.png; sourceTree = "<group>"; };
+		B1ACBC8CBB36459484287F52 /* icon_terms_conditions.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_terms_conditions.png; path = ../src/assets/images/card/icon_terms_conditions.png; sourceTree = "<group>"; };
+		B1D41DC466EF40F3ABE770C2 /* dark_back.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = dark_back.png; path = ../src/assets/images/dark_back.png; sourceTree = "<group>"; };
+		B25ED478426C4878B32A7A05 /* icon_input_camera.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_input_camera.png; path = ../src/assets/images/card/icon_input_camera.png; sourceTree = "<group>"; };
+		B2AE1DB70B624EB18CDB8151 /* avatar_22.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_22.png; path = ../src/assets/images/card/avatar_22.png; sourceTree = "<group>"; };
+		B41AF07B9B9B4A53929102DC /* card_empty.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = card_empty.png; path = ../src/assets/images/card/card_empty.png; sourceTree = "<group>"; };
+		B50F94FF065349EABD32B130 /* avatar_5.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_5.png; path = ../src/assets/images/card/avatar_5.png; sourceTree = "<group>"; };
+		BECF4763C10A4CECA5C4D394 /* flag_croatia.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = flag_croatia.png; path = ../src/assets/images/card/flag_croatia.png; sourceTree = "<group>"; };
+		BF044F7D802E4AE9B3F8B82E /* flag_bosnis.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = flag_bosnis.png; path = ../src/assets/images/card/flag_bosnis.png; sourceTree = "<group>"; };
+		BFB945BAD7E641CABD075CB0 /* matic.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = matic.png; path = ../src/assets/images/coin_logos/matic.png; sourceTree = "<group>"; };
+		C0CA058E77AE4255A7B2BB59 /* solarlogo.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = solarlogo.png; path = ../src/assets/images/solarlogo.png; sourceTree = "<group>"; };
+		C43BA40046FD491CAB8C6663 /* avatar_15.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_15.png; path = ../src/assets/images/card/avatar_15.png; sourceTree = "<group>"; };
+		C4C7052EEC1F40AC98BA0180 /* avatar_1.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_1.png; path = ../src/assets/images/card/avatar_1.png; sourceTree = "<group>"; };
+		C77F1AD8F56841B99659E975 /* avatar_29.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_29.png; path = ../src/assets/images/card/avatar_29.png; sourceTree = "<group>"; };
+		C8CF155F10B64950968C50B5 /* eth.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = eth.png; path = ../src/assets/images/coin_logos/eth.png; sourceTree = "<group>"; };
+		CA5CBA6CB6294B5D8EDEADB9 /* slide.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = slide.svg; path = ../src/assets/images/slide.svg; sourceTree = "<group>"; };
+		CA6C5B0C88D148B7ADBF7DD2 /* fnt.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = fnt.png; path = ../src/assets/images/coin_logos/fnt.png; sourceTree = "<group>"; };
+		CE59CC9D86594E1788899C69 /* icon_upload_image.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_upload_image.png; path = ../src/assets/images/card/icon_upload_image.png; sourceTree = "<group>"; };
+		CF0106AE4F7E43189FFFD4B6 /* topup_from_bank.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = topup_from_bank.png; path = ../src/assets/images/card/topup_from_bank.png; sourceTree = "<group>"; };
+		D3E6CB4636A247A89BDD5589 /* icon_back.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_back.png; path = ../src/assets/images/card/icon_back.png; sourceTree = "<group>"; };
+		D4811B8EDF8B4E1FB7997D61 /* avatar_28.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_28.png; path = ../src/assets/images/card/avatar_28.png; sourceTree = "<group>"; };
+		D7E53DDD027896BB3CA0C071 /* Pods_solarcard_solarcardTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_solarcard_solarcardTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D84004F2308D4AB8BBFD1CB0 /* icon_recepit.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_recepit.png; path = ../src/assets/images/card/icon_recepit.png; sourceTree = "<group>"; };
+		D9F190EC89114005B77638F3 /* back.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = back.png; path = ../src/assets/images/back.png; sourceTree = "<group>"; };
+		DBB02C738E004B7AA46CB2DE /* avatar_20.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_20.png; path = ../src/assets/images/card/avatar_20.png; sourceTree = "<group>"; };
+		DCFF85800BD44F5BA0E4AFC2 /* avatar_6.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_6.png; path = ../src/assets/images/card/avatar_6.png; sourceTree = "<group>"; };
+		DEE2C0E72BA741F38B83489D /* close_circle.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = close_circle.png; path = ../src/assets/images/card/close_circle.png; sourceTree = "<group>"; };
+		E0DAF1F6ACA44558AC35D29C /* icon_transaction_4.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_transaction_4.png; path = ../src/assets/images/card/icon_transaction_4.png; sourceTree = "<group>"; };
+		E268A5F5D153461AB893D47B /* arb.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = arb.png; path = ../src/assets/images/coin_logos/arb.png; sourceTree = "<group>"; };
+		E6A60D6A0AA942D28372DE69 /* avatar_10.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_10.png; path = ../src/assets/images/card/avatar_10.png; sourceTree = "<group>"; };
+		E73B8F574E42401AA1B0041A /* icon_topup.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_topup.png; path = ../src/assets/images/card/icon_topup.png; sourceTree = "<group>"; };
+		E8F485A5138946A391B94F06 /* find_icon.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = find_icon.png; path = ../src/assets/images/find_icon.png; sourceTree = "<group>"; };
+		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		EF2CA7520A4444D78ABB8261 /* sol.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = sol.png; path = ../src/assets/images/coin_logos/sol.png; sourceTree = "<group>"; };
+		EF58B0BD6E3D46A2A2E62998 /* btc.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = btc.png; path = ../src/assets/images/coin_logos/btc.png; sourceTree = "<group>"; };
+		EF656DA8FA1448648AB18BA7 /* flag_belgium.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = flag_belgium.png; path = ../src/assets/images/card/flag_belgium.png; sourceTree = "<group>"; };
+		F01A48AA9C764899A6E4CAFF /* card_plastic.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = card_plastic.png; path = ../src/assets/images/card/card_plastic.png; sourceTree = "<group>"; };
+		F21F8CC2EFF74AA6B8C395B6 /* avatar_13.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = avatar_13.png; path = ../src/assets/images/card/avatar_13.png; sourceTree = "<group>"; };
+		F2D39838F9854328A0FA5AE2 /* opt.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = opt.png; path = ../src/assets/images/coin_logos/opt.png; sourceTree = "<group>"; };
+		F46C50CF321B49BF9EF31A4E /* icon_calendar.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_calendar.png; path = ../src/assets/images/card/icon_calendar.png; sourceTree = "<group>"; };
+		F52CE249DD584BB6AAA85A1C /* solarcard.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = solarcard.png; path = ../src/assets/images/solarcard.png; sourceTree = "<group>"; };
+		F68B933C671F4DE3A3A1340B /* icon_app_setting.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_app_setting.png; path = ../src/assets/images/card/icon_app_setting.png; sourceTree = "<group>"; };
+		F77C31C3829C4EDBA6D18998 /* flag_bulgaria.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = flag_bulgaria.png; path = ../src/assets/images/card/flag_bulgaria.png; sourceTree = "<group>"; };
+		F86CB7C01530443291FD9204 /* copy_icon.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = copy_icon.png; path = ../src/assets/images/copy_icon.png; sourceTree = "<group>"; };
+		FAD541CDB4004644BAB27E89 /* topup_from_iban1.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = topup_from_iban1.png; path = ../src/assets/images/card/topup_from_iban1.png; sourceTree = "<group>"; };
+		FB9D5DAA075E4974B51EABFA /* flag_gbp.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = flag_gbp.png; path = ../src/assets/images/card/flag_gbp.png; sourceTree = "<group>"; };
+		FC3E0127CC0B4FBB92D50EC0 /* icon_language.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon_language.png; path = ../src/assets/images/card/icon_language.png; sourceTree = "<group>"; };
+		FD92C378B804466BAA8B42A5 /* card_virtual.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = card_virtual.png; path = ../src/assets/images/card/card_virtual.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		00E356EB1AD99517003FC87E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				308010ADFEABF99554725601 /* Pods_solarcard_solarcardTests.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		13B07F8C1A680F5B00A75B9A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5A42528BFA5B7AFFE5117DA8 /* Pods_solarcard.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		00E356EF1AD99517003FC87E /* solarcardTests */ = {
+			isa = PBXGroup;
+			children = (
+				00E356F21AD99517003FC87E /* solarcardTests.m */,
+				00E356F01AD99517003FC87E /* Supporting Files */,
+			);
+			path = solarcardTests;
+			sourceTree = "<group>";
+		};
+		00E356F01AD99517003FC87E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				00E356F11AD99517003FC87E /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		13B07FAE1A68108700A75B9A /* solarcard */ = {
+			isa = PBXGroup;
+			children = (
+				044C42E72A78D33C00B38FFA /* GoogleService-Info.plist */,
+				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
+				13B07FB01A68108700A75B9A /* AppDelegate.mm */,
+				13B07FB51A68108700A75B9A /* Images.xcassets */,
+				13B07FB61A68108700A75B9A /* Info.plist */,
+				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
+				13B07FB71A68108700A75B9A /* main.m */,
+			);
+			name = solarcard;
+			sourceTree = "<group>";
+		};
+		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
+				4B637C06C77CF2F03F0971ED /* Pods_solarcard.framework */,
+				D7E53DDD027896BB3CA0C071 /* Pods_solarcard_solarcardTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3F773F6D145643E383736DC2 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5C4D42863998457B937D8BB5 /* Nunito.ttf */,
+				F52CE249DD584BB6AAA85A1C /* solarcard.png */,
+				C0CA058E77AE4255A7B2BB59 /* solarlogo.png */,
+				91E39AF2CFC44230A9F96633 /* verified.png */,
+				D9F190EC89114005B77638F3 /* back.png */,
+				5BEEBDC3A7A843599AE4DB02 /* cards.png */,
+				74F10A11E1E7421DA2793EE5 /* lock.png */,
+				3365FFBB13F840BBA9764CAF /* solar.png */,
+				8A84DB07481D48BC98F5B49D /* arrowleft.png */,
+				68AD2BB7D9364B8192B1780C /* createpassword.png */,
+				1FD29EBD130D4BF4BA84D435 /* emailbox.png */,
+				1710B693FE874AAEA5771473 /* logowhite.png */,
+				071EFDF37C6A41F8A4EC843C /* wallet.png */,
+				CA5CBA6CB6294B5D8EDEADB9 /* slide.svg */,
+				6255D2DEE2DB4959A3CDCF6D /* card_blocked.png */,
+				B41AF07B9B9B4A53929102DC /* card_empty.png */,
+				F01A48AA9C764899A6E4CAFF /* card_plastic.png */,
+				82357627BABD45A1938A2B13 /* card_platium.png */,
+				FD92C378B804466BAA8B42A5 /* card_virtual.png */,
+				D3E6CB4636A247A89BDD5589 /* icon_back.png */,
+				6018D934DCB7463298E60E0A /* icon_card_setting.png */,
+				262401A054FB41CA8EF2B737 /* icon_plus.png */,
+				12C34318554C4C3BA5BDE9E5 /* icon_send.png */,
+				E73B8F574E42401AA1B0041A /* icon_topup.png */,
+				7FBF5B7CF82642C183DE8CAD /* icon_transaction_1.png */,
+				6271978D629A46A8A2C2BC2B /* icon_transaction_2.png */,
+				930B51916324480D9EAC8623 /* icon_transaction_3.png */,
+				E0DAF1F6ACA44558AC35D29C /* icon_transaction_4.png */,
+				84819F9CB71947599E83FF35 /* icon_transaction_5.png */,
+				49F8397B70A64601946F5BCA /* icon_transaction_no.png */,
+				96BD5889576543B2AFF53223 /* icon_upload_address.png */,
+				CE59CC9D86594E1788899C69 /* icon_upload_image.png */,
+				C4C7052EEC1F40AC98BA0180 /* avatar_1.png */,
+				E6A60D6A0AA942D28372DE69 /* avatar_10.png */,
+				5C92D6C7727C413D8A824FD4 /* avatar_11.png */,
+				20941A4743444BDB830E5214 /* avatar_12.png */,
+				F21F8CC2EFF74AA6B8C395B6 /* avatar_13.png */,
+				35A5220A9FDB4266B2531FC5 /* avatar_14.png */,
+				C43BA40046FD491CAB8C6663 /* avatar_15.png */,
+				38E9EC28A4124C6D97A16823 /* avatar_16.png */,
+				89ADC775741648E7B2FC6C3D /* avatar_17.png */,
+				98115BB8105A45C7852F9DA2 /* avatar_18.png */,
+				8C8D1F3765D84738A18B1269 /* avatar_19.png */,
+				9EEA67F91321483BA7D55167 /* avatar_2.png */,
+				DBB02C738E004B7AA46CB2DE /* avatar_20.png */,
+				7E6CE833CDDC4253A68F9FB5 /* avatar_21.png */,
+				B2AE1DB70B624EB18CDB8151 /* avatar_22.png */,
+				42BC7B26AA8E4268A40D2A73 /* avatar_23.png */,
+				0AD542F64BC54C18AF347028 /* avatar_24.png */,
+				8F2E2EC6111D47B7A0E4E51F /* avatar_25.png */,
+				1D5A29288E1F4AD69E21AEAA /* avatar_26.png */,
+				AB4BEEC1EAB8447ABBAA770E /* avatar_27.png */,
+				D4811B8EDF8B4E1FB7997D61 /* avatar_28.png */,
+				C77F1AD8F56841B99659E975 /* avatar_29.png */,
+				34E78F797A994012B90766F3 /* avatar_3.png */,
+				AD2EC62E74B847EEB055CFB7 /* avatar_30.png */,
+				633B4DFD4DB6433EA5E48F54 /* avatar_4.png */,
+				B50F94FF065349EABD32B130 /* avatar_5.png */,
+				DCFF85800BD44F5BA0E4AFC2 /* avatar_6.png */,
+				2778041607DC4BFC8250563E /* avatar_7.png */,
+				8A2BF13792554EA697D04020 /* avatar_8.png */,
+				63825211E07C4318AD84FDA1 /* avatar_9.png */,
+				32A720536BD341AA804C8E64 /* bg_blur.png */,
+				3F85CBC8CC1F41A8B28AA425 /* flag_austria.png */,
+				EF656DA8FA1448648AB18BA7 /* flag_belgium.png */,
+				BF044F7D802E4AE9B3F8B82E /* flag_bosnis.png */,
+				4962BD7FFBFD446A8B1BBF9A /* flag_britain.png */,
+				F77C31C3829C4EDBA6D18998 /* flag_bulgaria.png */,
+				BECF4763C10A4CECA5C4D394 /* flag_croatia.png */,
+				0B2DAEDEA7D94259BF81FFB8 /* flag_czech.png */,
+				966B077BE76B49AF8459F71E /* flag_denmark.png */,
+				2E6639FB41A14DFBA9B0B77E /* flag_eur.png */,
+				FB9D5DAA075E4974B51EABFA /* flag_gbp.png */,
+				2C10169EBF1349EB8948A5F7 /* flag_greece.png */,
+				9F50F5A6029048D38FE14330 /* flag_italy.png */,
+				82F9C66591534228A2E8B9BF /* flag_krw.png */,
+				8736CE1396FD450D96412C9B /* flag_try.png */,
+				9F6998A0639048C9BA0EC167 /* flag_usd.png */,
+				B09C36C1867B48E38464CF47 /* icon_arrow_right.png */,
+				AEA6EE5349F742E6B9BEFB00 /* icon_arrow_upright.png */,
+				F46C50CF321B49BF9EF31A4E /* icon_calendar.png */,
+				14DD23147B2644CFBEED9888 /* icon_card_setting_block.png */,
+				0AB293C2DD1743B88AE22D3A /* icon_card_setting_currency.png */,
+				3DAE7271A0D54732A0F4F2F8 /* icon_card_setting_statement.png */,
+				0A288DC4D466498B85E196CB /* icon_input_clear.png */,
+				5A4B7E212E164DE393857176 /* icon_input_error.png */,
+				1AE25768F5424933A75E279C /* icon_input_hide.png */,
+				11AF8FD2E4AD4757A4361A06 /* icon_input_show.png */,
+				0F829617C92F43F38AAAAACF /* icon_list_check.png */,
+				8F351CB6144F4EA3AA531582 /* icon_select_arrow_down.png */,
+				B0FE02DDAE494E97992AFFE7 /* security_system_bg.png */,
+				7AC83D4BCBB44400A159A892 /* switch_off.png */,
+				01E6FA4CE3BB478889BA8FEC /* switch_on.png */,
+				47F77455171A425485B0B706 /* email.png */,
+				57A3D3BFC7234695B9831C74 /* SFProtext.ttf */,
+				963C2B8134114515979281C0 /* app_icon.png */,
+				6C5CFEB6AA244981B5AC9A87 /* bookmark_icon.png */,
+				DEE2C0E72BA741F38B83489D /* close_circle.png */,
+				F68B933C671F4DE3A3A1340B /* icon_app_setting.png */,
+				347758790BD14A5D82A91AB7 /* icon_bag.png */,
+				163BE54AB2824E199BA6A87A /* icon_card.png */,
+				8FD9E11944B7479BB56CB50C /* icon_change_passcode.png */,
+				0C8CA5C7DC10492DB28800DC /* icon_check.png */,
+				040F96EF06204F778B758EF7 /* icon_face_id.png */,
+				B25ED478426C4878B32A7A05 /* icon_input_camera.png */,
+				825C76DF63524C109204BAFB /* icon_input_camera_black.png */,
+				FC3E0127CC0B4FBB92D50EC0 /* icon_language.png */,
+				83BD1FABA3D8428D81EC1791 /* icon_privacy_police.png */,
+				1766C0307EA7494599031930 /* icon_qr.png */,
+				D84004F2308D4AB8BBFD1CB0 /* icon_recepit.png */,
+				0BB637B19E644EA9807CDBED /* icon_refresh.png */,
+				4E6981F413F04A6DBBC83103 /* icon_report_tx.png */,
+				16F69D35BF8646BF961F2E5C /* icon_security.png */,
+				473672C22150413DA0064C79 /* icon_support.png */,
+				B1ACBC8CBB36459484287F52 /* icon_terms_conditions.png */,
+				6AA34DF6D6A842DD800FB70E /* mastercard.png */,
+				CF0106AE4F7E43189FFFD4B6 /* topup_from_bank.png */,
+				A84EBFAE50C3437DB5468375 /* topup_from_crypto.png */,
+				61AA542AACC6490888BAD856 /* visacard.png */,
+				E268A5F5D153461AB893D47B /* arb.png */,
+				1298F874F499490894A3A72E /* avl.png */,
+				86B66ED0F5794405B6531D81 /* bsc.png */,
+				EF58B0BD6E3D46A2A2E62998 /* btc.png */,
+				C8CF155F10B64950968C50B5 /* eth.png */,
+				CA6C5B0C88D148B7ADBF7DD2 /* fnt.png */,
+				BFB945BAD7E641CABD075CB0 /* matic.png */,
+				F2D39838F9854328A0FA5AE2 /* opt.png */,
+				EF2CA7520A4444D78ABB8261 /* sol.png */,
+				88CF9567E8104766B8FC72D8 /* sxp.png */,
+				F86CB7C01530443291FD9204 /* copy_icon.png */,
+				B1D41DC466EF40F3ABE770C2 /* dark_back.png */,
+				B18B48C156AE40898234C5D7 /* favorites_icon.png */,
+				E8F485A5138946A391B94F06 /* find_icon.png */,
+				8275A59B43184EA59F9C2C4A /* reading_icon.png */,
+				0D6E78D46CD34DB29B821339 /* usd_icon.png */,
+				FAD541CDB4004644BAB27E89 /* topup_from_iban1.png */,
+				622F4B56E5E040358222F70B /* card_opened.png */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Libraries;
+			sourceTree = "<group>";
+		};
+		83CBB9F61A601CBA00E9B192 = {
+			isa = PBXGroup;
+			children = (
+				13B07FAE1A68108700A75B9A /* solarcard */,
+				832341AE1AAA6A7D00B99B32 /* Libraries */,
+				00E356EF1AD99517003FC87E /* solarcardTests */,
+				83CBBA001A601CBA00E9B192 /* Products */,
+				2D16E6871FA4F8E400B85C8A /* Frameworks */,
+				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				3F773F6D145643E383736DC2 /* Resources */,
+			);
+			indentWidth = 2;
+			sourceTree = "<group>";
+			tabWidth = 2;
+			usesTabs = 0;
+		};
+		83CBBA001A601CBA00E9B192 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				13B07F961A680F5B00A75B9A /* solarcard.app */,
+				00E356EE1AD99517003FC87E /* solarcardTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3B4392A12AC88292D35C810B /* Pods-solarcard.debug.xcconfig */,
+				5709B34CF0A7D63546082F79 /* Pods-solarcard.release.xcconfig */,
+				5B7EB9410499542E8C5724F5 /* Pods-solarcard-solarcardTests.debug.xcconfig */,
+				89C6BE57DB24E9ADA2F236DE /* Pods-solarcard-solarcardTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		00E356ED1AD99517003FC87E /* solarcardTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "solarcardTests" */;
+			buildPhases = (
+				A55EABD7B0C7F3A422A6CC61 /* [CP] Check Pods Manifest.lock */,
+				00E356EA1AD99517003FC87E /* Sources */,
+				00E356EB1AD99517003FC87E /* Frameworks */,
+				00E356EC1AD99517003FC87E /* Resources */,
+				C59DA0FBD6956966B86A3779 /* [CP] Embed Pods Frameworks */,
+				F6A41C54EA430FDDC6A6ED99 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				00E356F51AD99517003FC87E /* PBXTargetDependency */,
+			);
+			name = solarcardTests;
+			productName = solarcardTests;
+			productReference = 00E356EE1AD99517003FC87E /* solarcardTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		13B07F861A680F5B00A75B9A /* solarcard */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "solarcard" */;
+			buildPhases = (
+				C38B50BA6285516D6DCD4F65 /* [CP] Check Pods Manifest.lock */,
+				FD10A7F022414F080027D42C /* Start Packager */,
+				13B07F871A680F5B00A75B9A /* Sources */,
+				13B07F8C1A680F5B00A75B9A /* Frameworks */,
+				13B07F8E1A680F5B00A75B9A /* Resources */,
+				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
+				00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */,
+				E235C05ADACE081382539298 /* [CP] Copy Pods Resources */,
+				51B5C75A8839F12A5826C90A /* [CP-User] [RNFB] Core Configuration */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = solarcard;
+			productName = solarcard;
+			productReference = 13B07F961A680F5B00A75B9A /* solarcard.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		83CBB9F71A601CBA00E9B192 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1210;
+				TargetAttributes = {
+					00E356ED1AD99517003FC87E = {
+						CreatedOnToolsVersion = 6.2;
+						TestTargetID = 13B07F861A680F5B00A75B9A;
+					};
+					13B07F861A680F5B00A75B9A = {
+						LastSwiftMigration = 1120;
+					};
+				};
+			};
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "solarcard" */;
+			compatibilityVersion = "Xcode 12.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 83CBB9F61A601CBA00E9B192;
+			productRefGroup = 83CBBA001A601CBA00E9B192 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				13B07F861A680F5B00A75B9A /* solarcard */,
+				00E356ED1AD99517003FC87E /* solarcardTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		00E356EC1AD99517003FC87E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		13B07F8E1A680F5B00A75B9A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				044C42E82A78D33D00B38FFA /* GoogleService-Info.plist in Resources */,
+				325FB3A108EC4FB9960E031C /* Nunito.ttf in Resources */,
+				B4CADB89DE2D4F07A5AEBC8A /* solarcard.png in Resources */,
+				03BB50C8B09949D88B4DA190 /* solarlogo.png in Resources */,
+				65F59BF9701F4A4A9210269E /* verified.png in Resources */,
+				0492135F478645F39B263E28 /* back.png in Resources */,
+				62979F17CD19450BA62647E4 /* cards.png in Resources */,
+				66EEC1A647CB47D689A1CCA5 /* lock.png in Resources */,
+				EB72E4A8555C4EDCA4606F14 /* solar.png in Resources */,
+				C464BED5EFA74F3BA9E574E3 /* arrowleft.png in Resources */,
+				904FA1BBB5484CE0948A7F22 /* createpassword.png in Resources */,
+				C892F4787FA9455BAB579023 /* emailbox.png in Resources */,
+				D662111BBCAA4A49A835B0EB /* logowhite.png in Resources */,
+				95ED2E2191CD4896889118F6 /* wallet.png in Resources */,
+				F6AE9737111F4189947F2B8B /* slide.svg in Resources */,
+				91AD9206790D4F3A8EAD2A88 /* card_blocked.png in Resources */,
+				D187B726557A4A11AFA63FB6 /* card_empty.png in Resources */,
+				5A5D1D2F3B8B4F61B412357F /* card_plastic.png in Resources */,
+				C3A34D37D1EA4A1EA07E6AEF /* card_platium.png in Resources */,
+				E902C5078F40411A807B065E /* card_virtual.png in Resources */,
+				14574F140B4F432DB9A306C1 /* icon_back.png in Resources */,
+				935036520CC74103BA296EC6 /* icon_card_setting.png in Resources */,
+				8DEFFE8CA72642529921A981 /* icon_plus.png in Resources */,
+				571EB7AABAE247E78EAEF151 /* icon_send.png in Resources */,
+				B4F48B19736A4CDD87C7849A /* icon_topup.png in Resources */,
+				FFC062F8015343F091CC7983 /* icon_transaction_1.png in Resources */,
+				BF6EE1C953154237B66B3AA5 /* icon_transaction_2.png in Resources */,
+				396A28254D154CA0B29385E2 /* icon_transaction_3.png in Resources */,
+				3E8B3D22C32A4A20B5B202DD /* icon_transaction_4.png in Resources */,
+				083026322A1F435E893116EB /* icon_transaction_5.png in Resources */,
+				1FB94F40A7CB405CB1795CE7 /* icon_transaction_no.png in Resources */,
+				3AE206E6B74E4AF6ADC77FC1 /* icon_upload_address.png in Resources */,
+				2E6A460CFBD14587821E1845 /* icon_upload_image.png in Resources */,
+				A2D01CC4356B4508B4F0DF84 /* avatar_1.png in Resources */,
+				729B4ED14A984039A0F12A45 /* avatar_10.png in Resources */,
+				6D538317D4E746BFA6FF73DE /* avatar_11.png in Resources */,
+				AF517659F8D149CB85FB266E /* avatar_12.png in Resources */,
+				7A6AAA73B6564708AE9308E2 /* avatar_13.png in Resources */,
+				3E7A68D245D0456FBF28830F /* avatar_14.png in Resources */,
+				A04BF44347E047F1A5A603C8 /* avatar_15.png in Resources */,
+				00B97E09516247599BEBFC6A /* avatar_16.png in Resources */,
+				95938DF13621440FB9B8DDC8 /* avatar_17.png in Resources */,
+				F91305FB82184562BC3E8A8D /* avatar_18.png in Resources */,
+				736239E0F5E947C1822DB6DD /* avatar_19.png in Resources */,
+				0E2DC7DD7F474CFBB78062DD /* avatar_2.png in Resources */,
+				238F10EBA94B4DD7BD05E273 /* avatar_20.png in Resources */,
+				008C7317A7C545B987A19C98 /* avatar_21.png in Resources */,
+				82D8BCB04AC74CC6B6CB983E /* avatar_22.png in Resources */,
+				0ACB8155E2914F559A999975 /* avatar_23.png in Resources */,
+				D095247409DB4ACEA12B3AEF /* avatar_24.png in Resources */,
+				6A364B9F0CF340A3AEBFBE79 /* avatar_25.png in Resources */,
+				7413A697AD134FADAB581A9C /* avatar_26.png in Resources */,
+				6FCCB306D3E14F9499C9740F /* avatar_27.png in Resources */,
+				17EB5CE28F23495C896E7BA2 /* avatar_28.png in Resources */,
+				5F66D274A6474FA0886FBCF5 /* avatar_29.png in Resources */,
+				295726C572D3401182779520 /* avatar_3.png in Resources */,
+				323D3231050F4B638924B19F /* avatar_30.png in Resources */,
+				5EAFEFB0C99A4D92BD1C62A6 /* avatar_4.png in Resources */,
+				A442A042FB154D42A05FB45F /* avatar_5.png in Resources */,
+				9F58F1FECEDC4570BBF26123 /* avatar_6.png in Resources */,
+				E42752C2BC98468789484E97 /* avatar_7.png in Resources */,
+				245A35CAD6A9483BBFCC0619 /* avatar_8.png in Resources */,
+				D6CD9C805B7A479AACF7DDA7 /* avatar_9.png in Resources */,
+				8F383039745942B5817C4067 /* bg_blur.png in Resources */,
+				F6F657E9FD684960855A6A00 /* flag_austria.png in Resources */,
+				264461A37CC64885946C1571 /* flag_belgium.png in Resources */,
+				881B9FD956BA4EFFA6887F84 /* flag_bosnis.png in Resources */,
+				31FEAD86E9024E298967D54D /* flag_britain.png in Resources */,
+				1812C8A481094C78B08EAA7D /* flag_bulgaria.png in Resources */,
+				27F1EB1F3291472398B7DE77 /* flag_croatia.png in Resources */,
+				7CEC08AA6E5148F090550027 /* flag_czech.png in Resources */,
+				2441F5C8061445728BBDE750 /* flag_denmark.png in Resources */,
+				CFEACEF8FF584B4A940B3A5F /* flag_eur.png in Resources */,
+				C148B2FD05304A02844E7EEF /* flag_gbp.png in Resources */,
+				BCE5C40484E14B1B81C5E322 /* flag_greece.png in Resources */,
+				131C5DC56B0C4EA285C7CC3C /* flag_italy.png in Resources */,
+				39F3D808E5044347BB23CDDA /* flag_krw.png in Resources */,
+				303ECBD1EC7D41D0A3A2769A /* flag_try.png in Resources */,
+				6CE8B7BCA2224A3B9CED8216 /* flag_usd.png in Resources */,
+				8A52F04D3DE94F39B6C9D277 /* icon_arrow_right.png in Resources */,
+				EB4D138944A442A1BB7EDA38 /* icon_arrow_upright.png in Resources */,
+				D0A8786AECF343589B14D6C1 /* icon_calendar.png in Resources */,
+				A4568500FCD84D378D789FE9 /* icon_card_setting_block.png in Resources */,
+				8937C2CDE6444A93AA892460 /* icon_card_setting_currency.png in Resources */,
+				FE5ACA54BD084C61B0174313 /* icon_card_setting_statement.png in Resources */,
+				F8E828CDE20446769F100D0E /* icon_input_clear.png in Resources */,
+				B22782F76F2045C2A15FBF69 /* icon_input_error.png in Resources */,
+				A3C0F4E4FDC84713B95D7005 /* icon_input_hide.png in Resources */,
+				BB6A66D836F14E06B6D031B2 /* icon_input_show.png in Resources */,
+				58B47F678B264071B25786F2 /* icon_list_check.png in Resources */,
+				3FF8351B5942467CBE2B69D1 /* icon_select_arrow_down.png in Resources */,
+				ADBC321C3DC94611860FF0BF /* security_system_bg.png in Resources */,
+				03E6A7B5F70D4B728FD17301 /* switch_off.png in Resources */,
+				676548DEA3B04EE0907882EC /* switch_on.png in Resources */,
+				4E3AA5DADA2842BCB305E735 /* email.png in Resources */,
+				38F088DDD3094EA59684E640 /* SFProtext.ttf in Resources */,
+				8724950078524882B8DDECD9 /* app_icon.png in Resources */,
+				6D6DD9CBBB874957BAA45025 /* bookmark_icon.png in Resources */,
+				1B59602CDF294A488A62CB44 /* close_circle.png in Resources */,
+				7BF77882C0004EBA96ECB4CD /* icon_app_setting.png in Resources */,
+				A7B0FA6C2717443292A4D595 /* icon_bag.png in Resources */,
+				AF9DECE4C62043748825E02D /* icon_card.png in Resources */,
+				633462B29977414CA8455553 /* icon_change_passcode.png in Resources */,
+				A8E039DCD3CC4A12B2C9F46C /* icon_check.png in Resources */,
+				3C13B922C25E42A1BCA0D50B /* icon_face_id.png in Resources */,
+				DCF718A32D564A6E9A45B291 /* icon_input_camera.png in Resources */,
+				581EE2828AE54CA988DD67FD /* icon_input_camera_black.png in Resources */,
+				5F10B39D191A40F3BA819A70 /* icon_language.png in Resources */,
+				A8A603B413A740619C9AD859 /* icon_privacy_police.png in Resources */,
+				2C7469B0B3934FC28C1F9662 /* icon_qr.png in Resources */,
+				9871A1B7E903482CA6F8AB46 /* icon_recepit.png in Resources */,
+				43CAB3ADB9554023ACABBE39 /* icon_refresh.png in Resources */,
+				834B8A3882464FE39D446E77 /* icon_report_tx.png in Resources */,
+				2D356B7AC443406FAF364A43 /* icon_security.png in Resources */,
+				AD8077ACDCEA4E65A51E7B2C /* icon_support.png in Resources */,
+				96746B6425894C03A1816BB8 /* icon_terms_conditions.png in Resources */,
+				EF255B2BAED54D9FAC8AAA43 /* mastercard.png in Resources */,
+				7C515350B6504AF7B509ACB8 /* topup_from_bank.png in Resources */,
+				6845D8ED23154F02B3EC6CA8 /* topup_from_crypto.png in Resources */,
+				115B75647606496695041805 /* visacard.png in Resources */,
+				2DC9A1E1C17346AAAC1B968B /* arb.png in Resources */,
+				B65600EE006642139D059C8C /* avl.png in Resources */,
+				D4CE8AEA49B44E329691F4E5 /* bsc.png in Resources */,
+				6420E84EC2124A8992FAFB5A /* btc.png in Resources */,
+				A40EA021388A410EB2ED8274 /* eth.png in Resources */,
+				FD7A6B4DA5AF415B96029207 /* fnt.png in Resources */,
+				7856B2732DA5466FB7357726 /* matic.png in Resources */,
+				B647F180722B42A894C35B99 /* opt.png in Resources */,
+				59914B17722F4A8891BD43AD /* sol.png in Resources */,
+				AC9878BDAB2A438E862C62C8 /* sxp.png in Resources */,
+				F81B30DC8E7046B5A752875B /* copy_icon.png in Resources */,
+				E11570E5271A40AEAAB4657C /* dark_back.png in Resources */,
+				FD271DEB0D004BDDA3CF7704 /* favorites_icon.png in Resources */,
+				33E59CDF939F490F8428F344 /* find_icon.png in Resources */,
+				1FAB6DB671924230BF3D9701 /* reading_icon.png in Resources */,
+				AD8B880056A7488EA8452B04 /* usd_icon.png in Resources */,
+				DDFDF92D76414C5E9CF99D8A /* topup_from_iban1.png in Resources */,
+				F48A724F7B664C11BB8A6DD4 /* card_opened.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"$(SRCROOT)/.xcode.env.local",
+				"$(SRCROOT)/.xcode.env",
+			);
+			name = "Bundle React Native code and images";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "set -e\n\nWITH_ENVIRONMENT=\"../node_modules/react-native/scripts/xcode/with-environment.sh\"\nREACT_NATIVE_XCODE=\"../node_modules/react-native/scripts/react-native-xcode.sh\"\n\n/bin/sh -c \"$WITH_ENVIRONMENT $REACT_NATIVE_XCODE\"\n";
+		};
+		00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-solarcard/Pods-solarcard-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-solarcard/Pods-solarcard-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-solarcard/Pods-solarcard-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		51B5C75A8839F12A5826C90A /* [CP-User] [RNFB] Core Configuration */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"$(BUILT_PRODUCTS_DIR)/$(INFOPLIST_PATH)",
+			);
+			name = "[CP-User] [RNFB] Core Configuration";
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "#!/usr/bin/env bash\n#\n# Copyright (c) 2016-present Invertase Limited & Contributors\n#\n# Licensed under the Apache License, Version 2.0 (the \"License\");\n# you may not use this library except in compliance with the License.\n# You may obtain a copy of the License at\n#\n#   http://www.apache.org/licenses/LICENSE-2.0\n#\n# Unless required by applicable law or agreed to in writing, software\n# distributed under the License is distributed on an \"AS IS\" BASIS,\n# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n# See the License for the specific language governing permissions and\n# limitations under the License.\n#\nset -e\n\n_MAX_LOOKUPS=2;\n_SEARCH_RESULT=''\n_RN_ROOT_EXISTS=''\n_CURRENT_LOOKUPS=1\n_JSON_ROOT=\"'react-native'\"\n_JSON_FILE_NAME='firebase.json'\n_JSON_OUTPUT_BASE64='e30=' # { }\n_CURRENT_SEARCH_DIR=${PROJECT_DIR}\n_PLIST_BUDDY=/usr/libexec/PlistBuddy\n_TARGET_PLIST=\"${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}\"\n_DSYM_PLIST=\"${DWARF_DSYM_FOLDER_PATH}/${DWARF_DSYM_FILE_NAME}/Contents/Info.plist\"\n\n# plist arrays\n_PLIST_ENTRY_KEYS=()\n_PLIST_ENTRY_TYPES=()\n_PLIST_ENTRY_VALUES=()\n\nfunction setPlistValue {\n  echo \"info:      setting plist entry '$1' of type '$2' in file '$4'\"\n  ${_PLIST_BUDDY} -c \"Add :$1 $2 '$3'\" $4 || echo \"info:      '$1' already exists\"\n}\n\nfunction getFirebaseJsonKeyValue () {\n  if [[ ${_RN_ROOT_EXISTS} ]]; then\n    ruby -Ku -e \"require 'rubygems';require 'json'; output=JSON.parse('$1'); puts output[$_JSON_ROOT]['$2']\"\n  else\n    echo \"\"\n  fi;\n}\n\nfunction jsonBoolToYesNo () {\n  if [[ $1 == \"false\" ]]; then\n    echo \"NO\"\n  elif [[ $1 == \"true\" ]]; then\n    echo \"YES\"\n  else echo \"NO\"\n  fi\n}\n\necho \"info: -> RNFB build script started\"\necho \"info: 1) Locating ${_JSON_FILE_NAME} file:\"\n\nif [[ -z ${_CURRENT_SEARCH_DIR} ]]; then\n  _CURRENT_SEARCH_DIR=$(pwd)\nfi;\n\nwhile true; do\n  _CURRENT_SEARCH_DIR=$(dirname \"$_CURRENT_SEARCH_DIR\")\n  if [[ \"$_CURRENT_SEARCH_DIR\" == \"/\" ]] || [[ ${_CURRENT_LOOKUPS} -gt ${_MAX_LOOKUPS} ]]; then break; fi;\n  echo \"info:      ($_CURRENT_LOOKUPS of $_MAX_LOOKUPS) Searching in '$_CURRENT_SEARCH_DIR' for a ${_JSON_FILE_NAME} file.\"\n  _SEARCH_RESULT=$(find \"$_CURRENT_SEARCH_DIR\" -maxdepth 2 -name ${_JSON_FILE_NAME} -print | /usr/bin/head -n 1)\n  if [[ ${_SEARCH_RESULT} ]]; then\n    echo \"info:      ${_JSON_FILE_NAME} found at $_SEARCH_RESULT\"\n    break;\n  fi;\n  _CURRENT_LOOKUPS=$((_CURRENT_LOOKUPS+1))\ndone\n\nif [[ ${_SEARCH_RESULT} ]]; then\n  _JSON_OUTPUT_RAW=$(cat \"${_SEARCH_RESULT}\")\n  _RN_ROOT_EXISTS=$(ruby -Ku -e \"require 'rubygems';require 'json'; output=JSON.parse('$_JSON_OUTPUT_RAW'); puts output[$_JSON_ROOT]\" || echo '')\n\n  if [[ ${_RN_ROOT_EXISTS} ]]; then\n    if ! python3 --version >/dev/null 2>&1; then echo \"python3 not found, firebase.json file processing error.\" && exit 1; fi\n    _JSON_OUTPUT_BASE64=$(python3 -c 'import json,sys,base64;print(base64.b64encode(bytes(json.dumps(json.loads(open('\"'${_SEARCH_RESULT}'\"', '\"'rb'\"').read())['${_JSON_ROOT}']), '\"'utf-8'\"')).decode())' || echo \"e30=\")\n  fi\n\n  _PLIST_ENTRY_KEYS+=(\"firebase_json_raw\")\n  _PLIST_ENTRY_TYPES+=(\"string\")\n  _PLIST_ENTRY_VALUES+=(\"$_JSON_OUTPUT_BASE64\")\n\n  # config.app_data_collection_default_enabled\n  _APP_DATA_COLLECTION_ENABLED=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"app_data_collection_default_enabled\")\n  if [[ $_APP_DATA_COLLECTION_ENABLED ]]; then\n    _PLIST_ENTRY_KEYS+=(\"FirebaseDataCollectionDefaultEnabled\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_APP_DATA_COLLECTION_ENABLED\")\")\n  fi\n\n  # config.analytics_auto_collection_enabled\n  _ANALYTICS_AUTO_COLLECTION=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"analytics_auto_collection_enabled\")\n  if [[ $_ANALYTICS_AUTO_COLLECTION ]]; then\n    _PLIST_ENTRY_KEYS+=(\"FIREBASE_ANALYTICS_COLLECTION_ENABLED\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_ANALYTICS_AUTO_COLLECTION\")\")\n  fi\n\n  # config.analytics_collection_deactivated\n  _ANALYTICS_DEACTIVATED=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"analytics_collection_deactivated\")\n  if [[ $_ANALYTICS_DEACTIVATED ]]; then\n    _PLIST_ENTRY_KEYS+=(\"FIREBASE_ANALYTICS_COLLECTION_DEACTIVATED\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_ANALYTICS_DEACTIVATED\")\")\n  fi\n\n  # config.analytics_idfv_collection_enabled\n  _ANALYTICS_IDFV_COLLECTION=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"analytics_idfv_collection_enabled\")\n  if [[ $_ANALYTICS_IDFV_COLLECTION ]]; then\n    _PLIST_ENTRY_KEYS+=(\"GOOGLE_ANALYTICS_IDFV_COLLECTION_ENABLED\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_ANALYTICS_IDFV_COLLECTION\")\")\n  fi\n\n  # config.analytics_default_allow_ad_personalization_signals\n  _ANALYTICS_PERSONALIZATION=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"analytics_default_allow_ad_personalization_signals\")\n  if [[ $_ANALYTICS_PERSONALIZATION ]]; then\n    _PLIST_ENTRY_KEYS+=(\"GOOGLE_ANALYTICS_DEFAULT_ALLOW_AD_PERSONALIZATION_SIGNALS\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_ANALYTICS_PERSONALIZATION\")\")\n  fi\n\n  # config.analytics_registration_with_ad_network_enabled\n  _ANALYTICS_REGISTRATION_WITH_AD_NETWORK=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"google_analytics_registration_with_ad_network_enabled\")\n  if [[ $_ANALYTICS_REGISTRATION_WITH_AD_NETWORK ]]; then\n    _PLIST_ENTRY_KEYS+=(\"GOOGLE_ANALYTICS_REGISTRATION_WITH_AD_NETWORK_ENABLED\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_ANALYTICS_REGISTRATION_WITH_AD_NETWORK\")\")\n  fi\n\n  # config.google_analytics_automatic_screen_reporting_enabled\n  _ANALYTICS_AUTO_SCREEN_REPORTING=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"google_analytics_automatic_screen_reporting_enabled\")\n  if [[ $_ANALYTICS_AUTO_SCREEN_REPORTING ]]; then\n    _PLIST_ENTRY_KEYS+=(\"FirebaseAutomaticScreenReportingEnabled\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_ANALYTICS_AUTO_SCREEN_REPORTING\")\")\n  fi\n\n  # config.perf_auto_collection_enabled\n  _PERF_AUTO_COLLECTION=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"perf_auto_collection_enabled\")\n  if [[ $_PERF_AUTO_COLLECTION ]]; then\n    _PLIST_ENTRY_KEYS+=(\"firebase_performance_collection_enabled\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_PERF_AUTO_COLLECTION\")\")\n  fi\n\n  # config.perf_collection_deactivated\n  _PERF_DEACTIVATED=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"perf_collection_deactivated\")\n  if [[ $_PERF_DEACTIVATED ]]; then\n    _PLIST_ENTRY_KEYS+=(\"firebase_performance_collection_deactivated\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_PERF_DEACTIVATED\")\")\n  fi\n\n  # config.messaging_auto_init_enabled\n  _MESSAGING_AUTO_INIT=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"messaging_auto_init_enabled\")\n  if [[ $_MESSAGING_AUTO_INIT ]]; then\n    _PLIST_ENTRY_KEYS+=(\"FirebaseMessagingAutoInitEnabled\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_MESSAGING_AUTO_INIT\")\")\n  fi\n\n  # config.in_app_messaging_auto_colllection_enabled\n  _FIAM_AUTO_INIT=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"in_app_messaging_auto_collection_enabled\")\n  if [[ $_FIAM_AUTO_INIT ]]; then\n    _PLIST_ENTRY_KEYS+=(\"FirebaseInAppMessagingAutomaticDataCollectionEnabled\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_FIAM_AUTO_INIT\")\")\n  fi\n\n  # config.app_check_token_auto_refresh\n  _APP_CHECK_TOKEN_AUTO_REFRESH=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"app_check_token_auto_refresh\")\n  if [[ $_APP_CHECK_TOKEN_AUTO_REFRESH ]]; then\n    _PLIST_ENTRY_KEYS+=(\"FirebaseAppCheckTokenAutoRefreshEnabled\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_APP_CHECK_TOKEN_AUTO_REFRESH\")\")\n  fi\n\n  # config.crashlytics_disable_auto_disabler - undocumented for now - mainly for debugging, document if becomes useful\n  _CRASHLYTICS_AUTO_DISABLE_ENABLED=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"crashlytics_disable_auto_disabler\")\n  if [[ $_CRASHLYTICS_AUTO_DISABLE_ENABLED == \"true\" ]]; then\n    echo \"Disabled Crashlytics auto disabler.\" # do nothing\n  else\n    _PLIST_ENTRY_KEYS+=(\"FirebaseCrashlyticsCollectionEnabled\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"NO\")\n  fi\nelse\n  _PLIST_ENTRY_KEYS+=(\"firebase_json_raw\")\n  _PLIST_ENTRY_TYPES+=(\"string\")\n  _PLIST_ENTRY_VALUES+=(\"$_JSON_OUTPUT_BASE64\")\n  echo \"warning:   A firebase.json file was not found, whilst this file is optional it is recommended to include it to configure firebase services in React Native Firebase.\"\nfi;\n\necho \"info: 2) Injecting Info.plist entries: \"\n\n# Log out the keys we're adding\nfor i in \"${!_PLIST_ENTRY_KEYS[@]}\"; do\n  echo \"    ->  $i) ${_PLIST_ENTRY_KEYS[$i]}\" \"${_PLIST_ENTRY_TYPES[$i]}\" \"${_PLIST_ENTRY_VALUES[$i]}\"\ndone\n\nfor plist in \"${_TARGET_PLIST}\" \"${_DSYM_PLIST}\" ; do\n  if [[ -f \"${plist}\" ]]; then\n\n    # paths with spaces break the call to setPlistValue. temporarily modify\n    # the shell internal field separator variable (IFS), which normally\n    # includes spaces, to consist only of line breaks\n    oldifs=$IFS\n    IFS=\"\n\"\n\n    for i in \"${!_PLIST_ENTRY_KEYS[@]}\"; do\n      setPlistValue \"${_PLIST_ENTRY_KEYS[$i]}\" \"${_PLIST_ENTRY_TYPES[$i]}\" \"${_PLIST_ENTRY_VALUES[$i]}\" \"${plist}\"\n    done\n\n    # restore the original internal field separator value\n    IFS=$oldifs\n  else\n    echo \"warning:   A Info.plist build output file was not found (${plist})\"\n  fi\ndone\n\necho \"info: <- RNFB build script finished\"\n";
+		};
+		A55EABD7B0C7F3A422A6CC61 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-solarcard-solarcardTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C38B50BA6285516D6DCD4F65 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-solarcard-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C59DA0FBD6956966B86A3779 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-solarcard-solarcardTests/Pods-solarcard-solarcardTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-solarcard-solarcardTests/Pods-solarcard-solarcardTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-solarcard-solarcardTests/Pods-solarcard-solarcardTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E235C05ADACE081382539298 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-solarcard/Pods-solarcard-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-solarcard/Pods-solarcard-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-solarcard/Pods-solarcard-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F6A41C54EA430FDDC6A6ED99 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-solarcard-solarcardTests/Pods-solarcard-solarcardTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-solarcard-solarcardTests/Pods-solarcard-solarcardTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-solarcard-solarcardTests/Pods-solarcard-solarcardTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FD10A7F022414F080027D42C /* Start Packager */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = "Start Packager";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "export RCT_METRO_PORT=\"${RCT_METRO_PORT:=8081}\"\necho \"export RCT_METRO_PORT=${RCT_METRO_PORT}\" > \"${SRCROOT}/../node_modules/react-native/scripts/.packager.env\"\nif [ -z \"${RCT_NO_LAUNCH_PACKAGER+xxx}\" ] ; then\n  if nc -w 5 -z localhost ${RCT_METRO_PORT} ; then\n    if ! curl -s \"http://localhost:${RCT_METRO_PORT}/status\" | grep -q \"packager-status:running\" ; then\n      echo \"Port ${RCT_METRO_PORT} already in use, packager is either not running or not running correctly\"\n      exit 2\n    fi\n  else\n    open \"$SRCROOT/../node_modules/react-native/scripts/launchPackager.command\" || echo \"Can't start packager automatically\"\n  fi\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		00E356EA1AD99517003FC87E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				00E356F31AD99517003FC87E /* solarcardTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		13B07F871A680F5B00A75B9A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */,
+				13B07FC11A68108700A75B9A /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 13B07F861A680F5B00A75B9A /* solarcard */;
+			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		00E356F61AD99517003FC87E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5B7EB9410499542E8C5724F5 /* Pods-solarcard-solarcardTests.debug.xcconfig */;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = solarcardTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-lc++",
+					"$(inherited)",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/solarcard.app/solarcard";
+			};
+			name = Debug;
+		};
+		00E356F71AD99517003FC87E /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 89C6BE57DB24E9ADA2F236DE /* Pods-solarcard-solarcardTests.release.xcconfig */;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COPY_PHASE_STRIP = NO;
+				INFOPLIST_FILE = solarcardTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-lc++",
+					"$(inherited)",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/solarcard.app/solarcard";
+			};
+			name = Release;
+		};
+		13B07F941A680F5B00A75B9A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3B4392A12AC88292D35C810B /* Pods-solarcard.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_BITCODE = NO;
+				INFOPLIST_FILE = solarcard/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-lc++",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = org.dokdo.solarcard;
+				PRODUCT_NAME = solarcard;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Debug;
+		};
+		13B07F951A680F5B00A75B9A /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5709B34CF0A7D63546082F79 /* Pods-solarcard.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				INFOPLIST_FILE = solarcard/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-lc++",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = org.dokdo.solarcard;
+				PRODUCT_NAME = solarcard;
+				SWIFT_VERSION = 5.0;
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Release;
+		};
+		83CBBA201A601CBA00E9B192 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "c++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					/usr/lib/swift,
+					"$(inherited)",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"\"$(SDKROOT)/usr/lib/swift\"",
+					"\"$(TOOLCHAIN_DIR)/usr/lib/swift/$(PLATFORM_NAME)\"",
+					"\"$(inherited)\"",
+				);
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				OTHER_CPLUSPLUSFLAGS = (
+					"$(OTHER_CFLAGS)",
+					"-DFOLLY_NO_CONFIG",
+					"-DFOLLY_MOBILE=1",
+					"-DFOLLY_USE_LIBCPP=1",
+				);
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		83CBBA211A601CBA00E9B192 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "c++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					/usr/lib/swift,
+					"$(inherited)",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"\"$(SDKROOT)/usr/lib/swift\"",
+					"\"$(TOOLCHAIN_DIR)/usr/lib/swift/$(PLATFORM_NAME)\"",
+					"\"$(inherited)\"",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_CPLUSPLUSFLAGS = (
+					"$(OTHER_CFLAGS)",
+					"-DFOLLY_NO_CONFIG",
+					"-DFOLLY_MOBILE=1",
+					"-DFOLLY_USE_LIBCPP=1",
+				);
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "solarcardTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				00E356F61AD99517003FC87E /* Debug */,
+				00E356F71AD99517003FC87E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "solarcard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				13B07F941A680F5B00A75B9A /* Debug */,
+				13B07F951A680F5B00A75B9A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "solarcard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				83CBBA201A601CBA00E9B192 /* Debug */,
+				83CBBA211A601CBA00E9B192 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 83CBB9F71A601CBA00E9B192 /* Project object */;
+}

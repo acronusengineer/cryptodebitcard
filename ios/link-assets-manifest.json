@@ -1,0 +1,557 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/images/app_icon.png",
+      "sha1": "be360a245735d81cba6224d514c7d116c8731398"
+    },
+    {
+      "path": "src/assets/images/arrowleft.png",
+      "sha1": "7cd4e64df5810fbf84560f48d8e3de20e2cb8e8a"
+    },
+    {
+      "path": "src/assets/images/back.png",
+      "sha1": "191afe003a02d6efaa52afa10b9eda40b361c2ea"
+    },
+    {
+      "path": "src/assets/images/bookmark_icon.png",
+      "sha1": "9190c77657b4e8026808c1248684317f633eb0ed"
+    },
+    {
+      "path": "src/assets/images/card/avatar_1.png",
+      "sha1": "4b413dd3b77a53c9b5ac3b0d452e4a0af4e7526e"
+    },
+    {
+      "path": "src/assets/images/card/avatar_10.png",
+      "sha1": "b56b2265e610780ec27691d5ba5a8985c9ded5e5"
+    },
+    {
+      "path": "src/assets/images/card/avatar_11.png",
+      "sha1": "290cf14ff76faa9391ff9311ffa1b9effcd7a453"
+    },
+    {
+      "path": "src/assets/images/card/avatar_12.png",
+      "sha1": "b6e0eebd88054877f75abca3b36b58ccb2f86f34"
+    },
+    {
+      "path": "src/assets/images/card/avatar_13.png",
+      "sha1": "d981f60346172bf77046eab3c3df9c434a335e10"
+    },
+    {
+      "path": "src/assets/images/card/avatar_14.png",
+      "sha1": "19fc549bef89178313e47f11ae34381a57b8d615"
+    },
+    {
+      "path": "src/assets/images/card/avatar_15.png",
+      "sha1": "be5be20a12b23cd2458b5bed1008154366099e97"
+    },
+    {
+      "path": "src/assets/images/card/avatar_16.png",
+      "sha1": "009b32252995e65d3a8d6f62474db85e69f985c8"
+    },
+    {
+      "path": "src/assets/images/card/avatar_17.png",
+      "sha1": "a298297e32a1460be95d6d0def374ed4756cd966"
+    },
+    {
+      "path": "src/assets/images/card/avatar_18.png",
+      "sha1": "21d10a47a91452abdb8569bcda6c43126dd0657e"
+    },
+    {
+      "path": "src/assets/images/card/avatar_19.png",
+      "sha1": "4fe9df22b2e3f8836c88cb9250490d0b3c6101b3"
+    },
+    {
+      "path": "src/assets/images/card/avatar_2.png",
+      "sha1": "4d5aa1926e4fa7b363a3584e131a6d847d25dddc"
+    },
+    {
+      "path": "src/assets/images/card/avatar_20.png",
+      "sha1": "62c835a15cc3c0574f0521c0399440eefa3f401a"
+    },
+    {
+      "path": "src/assets/images/card/avatar_21.png",
+      "sha1": "3f6812ca2ededd9b73f0bf84c252ad2e90789ca5"
+    },
+    {
+      "path": "src/assets/images/card/avatar_22.png",
+      "sha1": "a3e09909be732b3700a82010aebb2613ce12128e"
+    },
+    {
+      "path": "src/assets/images/card/avatar_23.png",
+      "sha1": "445e745f62a9c27647fd7d201f85b1a5d8849970"
+    },
+    {
+      "path": "src/assets/images/card/avatar_24.png",
+      "sha1": "987fd356bb8e43e09731390f63f7f0e67cdfc201"
+    },
+    {
+      "path": "src/assets/images/card/avatar_25.png",
+      "sha1": "30b6826d9f8dda08917735c19212ebfcaeaaae34"
+    },
+    {
+      "path": "src/assets/images/card/avatar_26.png",
+      "sha1": "ea50ed806ede9ee6a58c7c84e9806c20b0e8324b"
+    },
+    {
+      "path": "src/assets/images/card/avatar_27.png",
+      "sha1": "a6738f61bd2eb730e4803df76a5d9f8c208511e6"
+    },
+    {
+      "path": "src/assets/images/card/avatar_28.png",
+      "sha1": "4a936f88b4edc79e333ee9579fe5de1bd01c1459"
+    },
+    {
+      "path": "src/assets/images/card/avatar_29.png",
+      "sha1": "7b16c73d2b605aae96a7638e21e5e07989387327"
+    },
+    {
+      "path": "src/assets/images/card/avatar_3.png",
+      "sha1": "935203df9d6b20df535b98483fe0071dc47a1ccf"
+    },
+    {
+      "path": "src/assets/images/card/avatar_30.png",
+      "sha1": "c6b9e0ac42524f70da85d0304ca1db0e47a58990"
+    },
+    {
+      "path": "src/assets/images/card/avatar_4.png",
+      "sha1": "7c7949fd83ca7944a6d1127d44829c2660bbfc83"
+    },
+    {
+      "path": "src/assets/images/card/avatar_5.png",
+      "sha1": "cd98ba21d8f05aa64c5b4aa0f8bb4bccfa2334d0"
+    },
+    {
+      "path": "src/assets/images/card/avatar_6.png",
+      "sha1": "657468d4d5ae0bdf0f23ae66ed65e9dfe5102c02"
+    },
+    {
+      "path": "src/assets/images/card/avatar_7.png",
+      "sha1": "c22ddf64907bc15828be15e85bea81fa03e5dece"
+    },
+    {
+      "path": "src/assets/images/card/avatar_8.png",
+      "sha1": "2373b2c4bc469a00a64952e69f66ae8bf5751316"
+    },
+    {
+      "path": "src/assets/images/card/avatar_9.png",
+      "sha1": "e045b8595e3baa0440be7c678576ee5d4580b66d"
+    },
+    {
+      "path": "src/assets/images/card/bg_blur.png",
+      "sha1": "ce86c10f336398786d33081d3ddcdca302052070"
+    },
+    {
+      "path": "src/assets/images/card/card_blocked.png",
+      "sha1": "7f1999d3246b4d4975146c2a4f44e401cb91f136"
+    },
+    {
+      "path": "src/assets/images/card/card_empty.png",
+      "sha1": "83eb3c0b17898fb47b1b787b75f3f7af9d27d106"
+    },
+    {
+      "path": "src/assets/images/card/card_plastic.png",
+      "sha1": "6d4f6662fc3d3134f91217291ddc024faf830d81"
+    },
+    {
+      "path": "src/assets/images/card/card_platium.png",
+      "sha1": "35ab81ef49c97ea338b662a99b8f4b9ecacae921"
+    },
+    {
+      "path": "src/assets/images/card/card_virtual.png",
+      "sha1": "dfe5bd0c31bb52926ed9026e73f3f09608f58f8c"
+    },
+    {
+      "path": "src/assets/images/card/close_circle.png",
+      "sha1": "a836f061652b1ece7c96a435f542d5911e801017"
+    },
+    {
+      "path": "src/assets/images/card/flag_austria.png",
+      "sha1": "d771124489261d9e896c3347b58b9a9907ae57c5"
+    },
+    {
+      "path": "src/assets/images/card/flag_belgium.png",
+      "sha1": "7f6c96e1fbf45a5b012442a049c50d5e4b1f584c"
+    },
+    {
+      "path": "src/assets/images/card/flag_bosnis.png",
+      "sha1": "49e438c1c666ffe59a85aa54c2ff561943d1c4a8"
+    },
+    {
+      "path": "src/assets/images/card/flag_britain.png",
+      "sha1": "31a998db958fedc6d6416f893bd97e9696ee6b88"
+    },
+    {
+      "path": "src/assets/images/card/flag_bulgaria.png",
+      "sha1": "4a0fcba4d481c10d7d5b70ff2c661c4849e614f3"
+    },
+    {
+      "path": "src/assets/images/card/flag_croatia.png",
+      "sha1": "21547b2af36f5dba32a98d6e7a88b0b88e4467ec"
+    },
+    {
+      "path": "src/assets/images/card/flag_czech.png",
+      "sha1": "460ecf869e5e450212339a41e988e5bc58ee110d"
+    },
+    {
+      "path": "src/assets/images/card/flag_denmark.png",
+      "sha1": "e54851275d55dec37d6a2198dcad532b9b9703e3"
+    },
+    {
+      "path": "src/assets/images/card/flag_eur.png",
+      "sha1": "7c6d9795c741870203b3880678dd967b32443a45"
+    },
+    {
+      "path": "src/assets/images/card/flag_gbp.png",
+      "sha1": "61851494de5ff9ded4e6e3964dc3bbcd9359d023"
+    },
+    {
+      "path": "src/assets/images/card/flag_greece.png",
+      "sha1": "f9a4a836d87b31dcf523e24aa095ba63b1167284"
+    },
+    {
+      "path": "src/assets/images/card/flag_italy.png",
+      "sha1": "307f71e38d3daaa5740afd0d87825253f57c04de"
+    },
+    {
+      "path": "src/assets/images/card/flag_krw.png",
+      "sha1": "569719390864fa26863342438e0ab0bbbfe0466c"
+    },
+    {
+      "path": "src/assets/images/card/flag_try.png",
+      "sha1": "2b24ffe69fc45cf06b15e548a17233fa93a68d51"
+    },
+    {
+      "path": "src/assets/images/card/flag_usd.png",
+      "sha1": "f668f2b466794df266cdd738be33a7fc7b40e64f"
+    },
+    {
+      "path": "src/assets/images/card/icon_app_setting.png",
+      "sha1": "13207777d25853ca82fbd30b346e66b8de0c12b9"
+    },
+    {
+      "path": "src/assets/images/card/icon_arrow_right.png",
+      "sha1": "169cdeafcb0a674bedbf0cd41342b15fd6ca5ea3"
+    },
+    {
+      "path": "src/assets/images/card/icon_arrow_upright.png",
+      "sha1": "ea2746c36f0addd0803f2a478026448697a15a50"
+    },
+    {
+      "path": "src/assets/images/card/icon_back.png",
+      "sha1": "369474a73d52551bfd9db13c9f934dd88caf6326"
+    },
+    {
+      "path": "src/assets/images/card/icon_bag.png",
+      "sha1": "38b99c452d29d9943cf54818c864f36bb88753b8"
+    },
+    {
+      "path": "src/assets/images/card/icon_calendar.png",
+      "sha1": "e53c3b227fd330ccd2db95995c222d7e10c1e271"
+    },
+    {
+      "path": "src/assets/images/card/icon_card.png",
+      "sha1": "03776c347ff9edeca3ff8cecf71da7cca53351f2"
+    },
+    {
+      "path": "src/assets/images/card/icon_card_setting.png",
+      "sha1": "a74709cf3a5c607630f2e328f017ce2203b94a03"
+    },
+    {
+      "path": "src/assets/images/card/icon_card_setting_block.png",
+      "sha1": "464b98021030746ee19f9c41fff5e4d2f197afaf"
+    },
+    {
+      "path": "src/assets/images/card/icon_card_setting_currency.png",
+      "sha1": "71a5efd72c21e1a98fdd8df976a1d84112a32cf0"
+    },
+    {
+      "path": "src/assets/images/card/icon_card_setting_statement.png",
+      "sha1": "687b7caca6cdf9db87603fbe3c8285f606418c24"
+    },
+    {
+      "path": "src/assets/images/card/icon_change_passcode.png",
+      "sha1": "4eab1f54168fe4b6383b5ba071ce20a74835b488"
+    },
+    {
+      "path": "src/assets/images/card/icon_check.png",
+      "sha1": "e0cf3d63bf95aeb1a47ad510664d7891012486a6"
+    },
+    {
+      "path": "src/assets/images/card/icon_face_id.png",
+      "sha1": "6dc50eadf2cb65f1602b515979ab6bf6741c4c1b"
+    },
+    {
+      "path": "src/assets/images/card/icon_input_camera.png",
+      "sha1": "da8936a49a275a210a5256fde5344159e9e56f85"
+    },
+    {
+      "path": "src/assets/images/card/icon_input_camera_black.png",
+      "sha1": "487c966324ec6d222946df2ee68832299c3536f3"
+    },
+    {
+      "path": "src/assets/images/card/icon_input_clear.png",
+      "sha1": "98e964195560fe7667bba2f0f9eb93173d26c5bd"
+    },
+    {
+      "path": "src/assets/images/card/icon_input_error.png",
+      "sha1": "a75c596f35fa1578275699cb65c615eb519290a1"
+    },
+    {
+      "path": "src/assets/images/card/icon_input_hide.png",
+      "sha1": "1de1ead5198fa1dcc65ef75b4e891a57b696448d"
+    },
+    {
+      "path": "src/assets/images/card/icon_input_show.png",
+      "sha1": "91cd8db807c0a35306bcd26520eec8820f19c3c3"
+    },
+    {
+      "path": "src/assets/images/card/icon_language.png",
+      "sha1": "d0458e18e651428db8f3f7b2eaa958e1c1ebc6df"
+    },
+    {
+      "path": "src/assets/images/card/icon_list_check.png",
+      "sha1": "59b03fa9b907659c576db431d291bcffc4deb657"
+    },
+    {
+      "path": "src/assets/images/card/icon_plus.png",
+      "sha1": "f4adc9f425e36371517adb21536f88c89d1b6ad0"
+    },
+    {
+      "path": "src/assets/images/card/icon_privacy_police.png",
+      "sha1": "90de68933d7b83fa3607b9fa7f18310319992aae"
+    },
+    {
+      "path": "src/assets/images/card/icon_qr.png",
+      "sha1": "a076b1d88e268f5b991cb3e6d86b08169fcdf4c1"
+    },
+    {
+      "path": "src/assets/images/card/icon_recepit.png",
+      "sha1": "b6e93bc431702ddd06e421f829ea8134bcc2e31a"
+    },
+    {
+      "path": "src/assets/images/card/icon_refresh.png",
+      "sha1": "a66ea4858b5bd889831beed0a4afeab6ea0b10a9"
+    },
+    {
+      "path": "src/assets/images/card/icon_report_tx.png",
+      "sha1": "6018dafcd0498ba5e6e4de914fb21b5e2545d780"
+    },
+    {
+      "path": "src/assets/images/card/icon_security.png",
+      "sha1": "30a1bc2b6119558bfa35dd1310b248cf2d34aa61"
+    },
+    {
+      "path": "src/assets/images/card/icon_select_arrow_down.png",
+      "sha1": "4a628898f78a6e75bf18ae706dfaee0a76b5659f"
+    },
+    {
+      "path": "src/assets/images/card/icon_send.png",
+      "sha1": "46f2ea22b36de0961946cef9d6a47d0bb8ea2997"
+    },
+    {
+      "path": "src/assets/images/card/icon_support.png",
+      "sha1": "020c4417ca43f685f10d8886107594264f623a2a"
+    },
+    {
+      "path": "src/assets/images/card/icon_terms_conditions.png",
+      "sha1": "2a071993dad1cd111f78eab6f4fa84bbcb511327"
+    },
+    {
+      "path": "src/assets/images/card/icon_topup.png",
+      "sha1": "9a3dabb0f16fe259e417ba5e8155c438aaccdd11"
+    },
+    {
+      "path": "src/assets/images/card/icon_transaction_1.png",
+      "sha1": "b9dfc235e420c0db666dd322143d37d3fe79dc2a"
+    },
+    {
+      "path": "src/assets/images/card/icon_transaction_2.png",
+      "sha1": "972d9ea2e37e6a16fe6e7f6a3f28289cd711cf45"
+    },
+    {
+      "path": "src/assets/images/card/icon_transaction_3.png",
+      "sha1": "c554898cd1d27351a10e926bb0daaa02fa223959"
+    },
+    {
+      "path": "src/assets/images/card/icon_transaction_4.png",
+      "sha1": "a3fa01ac85f6460dfd851e154d32ea469320dc0a"
+    },
+    {
+      "path": "src/assets/images/card/icon_transaction_5.png",
+      "sha1": "7cb9ce12cd863de5f814aedb0e1f34bb9a80a412"
+    },
+    {
+      "path": "src/assets/images/card/icon_transaction_no.png",
+      "sha1": "43865807d787eae085f16abf2c9fefc6c249e569"
+    },
+    {
+      "path": "src/assets/images/card/icon_upload_address.png",
+      "sha1": "836a419e70218d8ed4e32003757c8532b7641d72"
+    },
+    {
+      "path": "src/assets/images/card/icon_upload_image.png",
+      "sha1": "a39ccd41dc379edf8699f996872f724be33f48cd"
+    },
+    {
+      "path": "src/assets/images/card/mastercard.png",
+      "sha1": "bb3802a1e757215d7fcf20d57d8d2f9f53d6fce0"
+    },
+    {
+      "path": "src/assets/images/card/security_system_bg.png",
+      "sha1": "9c5d4f032e8a59ce61acbbd8b32053936e470d92"
+    },
+    {
+      "path": "src/assets/images/card/switch_off.png",
+      "sha1": "265bdc0e0e921a6a25c1138ed336e30317068f02"
+    },
+    {
+      "path": "src/assets/images/card/switch_on.png",
+      "sha1": "0cfa546a80b8f3c8379406c38e05655acefd12d1"
+    },
+    {
+      "path": "src/assets/images/card/topup_from_bank.png",
+      "sha1": "aece984ef6f7883a41352cc8e3a2777ea2efe66f"
+    },
+    {
+      "path": "src/assets/images/card/topup_from_crypto.png",
+      "sha1": "4604cbf834b9f623ef8c098eba033397db234fc7"
+    },
+    {
+      "path": "src/assets/images/card/topup_from_iban1.png",
+      "sha1": "540460cf12fe59c7f6570861c20d2d35b47ca264"
+    },
+    {
+      "path": "src/assets/images/card/visacard.png",
+      "sha1": "b9598eb0070fcc67973bafcf8f279450f3bc58fa"
+    },
+    {
+      "path": "src/assets/images/card_opened.png",
+      "sha1": "227751c89cf5a4f78137ca9d4f5cb47210e92c7f"
+    },
+    {
+      "path": "src/assets/images/cards.png",
+      "sha1": "af325ce2e91a4b297e7da41f5e8a666071a9fc37"
+    },
+    {
+      "path": "src/assets/images/coin_logos/arb.png",
+      "sha1": "1a3f637203ebf26b399f2baa0931293757fae4d2"
+    },
+    {
+      "path": "src/assets/images/coin_logos/avl.png",
+      "sha1": "b50171fda2fdd2907aa07dae814a81fce9820c08"
+    },
+    {
+      "path": "src/assets/images/coin_logos/bsc.png",
+      "sha1": "51dcf813e5514af38cd051f7fc6f6e3cceabe152"
+    },
+    {
+      "path": "src/assets/images/coin_logos/btc.png",
+      "sha1": "55e0eb4f619fd3ff3de6a16c5e97714e3849bee1"
+    },
+    {
+      "path": "src/assets/images/coin_logos/eth.png",
+      "sha1": "e8c1a6c834599b40ba06fc98a602986034451e3b"
+    },
+    {
+      "path": "src/assets/images/coin_logos/fnt.png",
+      "sha1": "d7c04eb805c093b32c0871b111a124411c9331fd"
+    },
+    {
+      "path": "src/assets/images/coin_logos/matic.png",
+      "sha1": "97608a72747fddea0703fc3cbc7ba6167a9edd0e"
+    },
+    {
+      "path": "src/assets/images/coin_logos/opt.png",
+      "sha1": "52c3ee044857c2a87b0182db660a0381b9b9868a"
+    },
+    {
+      "path": "src/assets/images/coin_logos/sol.png",
+      "sha1": "5960ab229591df4360e51344b73e35be8e95d868"
+    },
+    {
+      "path": "src/assets/images/coin_logos/sxp.png",
+      "sha1": "56807c2e011727c3dce12f9215ded3ae3d44d35b"
+    },
+    {
+      "path": "src/assets/images/copy_icon.png",
+      "sha1": "2cf93a1d986ff9fd51164aed5d65e9a306279c2b"
+    },
+    {
+      "path": "src/assets/images/createpassword.png",
+      "sha1": "f73e896a05f376fd67db36b785b821dfbd0e0cbc"
+    },
+    {
+      "path": "src/assets/images/dark_back.png",
+      "sha1": "95118d5b3b7663c44c22dd1780367cbace0340f6"
+    },
+    {
+      "path": "src/assets/images/email.png",
+      "sha1": "a4c23703a1f09e003b2df8762fa97141635db948"
+    },
+    {
+      "path": "src/assets/images/emailbox.png",
+      "sha1": "6f63897e2590e55ad882424f9c1aad2aca2e9039"
+    },
+    {
+      "path": "src/assets/images/favorites_icon.png",
+      "sha1": "a140ce8cda77706810d11b6bd3837808ebfc295e"
+    },
+    {
+      "path": "src/assets/images/find_icon.png",
+      "sha1": "81c333076696fce8e8a37062b63c3cd99565aa0e"
+    },
+    {
+      "path": "src/assets/images/lock.png",
+      "sha1": "65d67ca9c770da176e45c59269ed6239e1f3965b"
+    },
+    {
+      "path": "src/assets/images/logowhite.png",
+      "sha1": "94334b29129520b73d15ad2741e1b6089b674d6b"
+    },
+    {
+      "path": "src/assets/images/reading_icon.png",
+      "sha1": "c236ef4c5426dd5f7b47ad6687d9e5d45371b56b"
+    },
+    {
+      "path": "src/assets/images/slide.svg",
+      "sha1": "1ba8e89e6bc8ad5b555eae26efd4df1a51923bc3"
+    },
+    {
+      "path": "src/assets/images/solar.png",
+      "sha1": "e381534c0f02f81b73646c43ef3c336044a0b10f"
+    },
+    {
+      "path": "src/assets/images/solarcard.png",
+      "sha1": "e5358d0dc5557cde5970e157370404268282772a"
+    },
+    {
+      "path": "src/assets/images/solarlogo.png",
+      "sha1": "a6712beed8ec41410fe721ccbfedaccefa5daaa4"
+    },
+    {
+      "path": "src/assets/images/usd_icon.png",
+      "sha1": "aeb214d9ebf043f3606b6e398441a6f7f20266d1"
+    },
+    {
+      "path": "src/assets/images/verified.png",
+      "sha1": "486f66112db6429a8b8497cf4cc6996d08efdfb4"
+    },
+    {
+      "path": "src/assets/images/wallet.png",
+      "sha1": "66a01e1cb1a40a1cd3fe18a67c483b57bbc8a62b"
+    },
+    {
+      "path": "src/assets/images/wallet.svg",
+      "sha1": "66a01e1cb1a40a1cd3fe18a67c483b57bbc8a62b"
+    },
+    {
+      "path": "src/assets/fonts/Nunito.ttf",
+      "sha1": "4b7236ba666cb77f00d8cb2a17696cc0dc2b2cc9"
+    },
+    {
+      "path": "src/assets/fonts/SFProtext.ttf",
+      "sha1": "b4893462f2289df6978f9462a63db9e64bcc9342"
+    }
+  ]
+}

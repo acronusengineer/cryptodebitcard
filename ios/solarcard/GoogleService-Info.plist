@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>697994090183-d62or6088h3ehgap3fq5mdfbc2sdu44j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.697994090183-d62or6088h3ehgap3fq5mdfbc2sdu44j</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>697994090183-8t7sekotefo8s91driki5io6kparc7v7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCDqOxSr2yfKaBKQKYdJdWcr7nSMKLWKXo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>697994090183</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.dokdo.solarcard</string>
+	<key>PROJECT_ID</key>
+	<string>solarcard-ba957</string>
+	<key>STORAGE_BUCKET</key>
+	<string>solarcard-ba957.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:697994090183:ios:423545d0291f65a3a310e2</string>
+	<key>DATABASE_URL</key>
+	<string>https://solarcard-ba957-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

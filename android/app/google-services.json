@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "697994090183",
+    "firebase_url": "https://solarcard-ba957-default-rtdb.firebaseio.com",
+    "project_id": "solarcard-ba957",
+    "storage_bucket": "solarcard-ba957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697994090183:android:31547b3c59a9877ea310e2",
+        "android_client_info": {
+          "package_name": "com.dokdo.solarcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697994090183-8t7sekotefo8s91driki5io6kparc7v7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dokdo.solarcard",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "697994090183-aapff05d70bbvms5aonj7fc2ldoc5ubu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHEYHkq1K9IlNWY7X4y3Br2BhIkUwbzJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697994090183-aapff05d70bbvms5aonj7fc2ldoc5ubu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "697994090183-d62or6088h3ehgap3fq5mdfbc2sdu44j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.dokdo.solarcard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
