@@ -1,7 +1,7 @@
 <!-- Title -->
 
 <p  align="center">
-<h1  align="center">Solar Card React Native App</h1>
+<h1  align="center">Cryptodebit Card React Native App</h1>
 </p>
 <!-- Header -->
 <p  align="center">
